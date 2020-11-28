@@ -18,7 +18,11 @@ const Chart2 = () => {
 
         chartSetting.paddingRight = 20;
 
-        let data = [];
+        let data = [{
+            date: new Date(),
+            name: 'name1',
+            value: 0,
+        }];
 
         // for (let i = 1; i < 20; i++) {
         //     data.push({ date: new Date(convertDate(chartData[i].date, chartData[i].hour)), name: "name" + i, value: chartData[i].value });
