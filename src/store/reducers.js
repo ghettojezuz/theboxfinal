@@ -2,7 +2,7 @@ import {combineReducers} from "redux";
 import {SET_IS_AUTH} from "./actions"
 
 const defaultStateAuth = {
-    isAuth: false,
+    isAuth: true,
 };
 
 export const authReducer = (state = defaultStateAuth, action) => {

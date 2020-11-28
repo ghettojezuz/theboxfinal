@@ -61,7 +61,7 @@ const Chart2 = () => {
 
     return (
         <>
-            <div id="chartdiv2" style={{ width: "100%", height: "700px" }}></div>
+            <div id="chartdiv2" style={{ width: "100%", height: "600px" }}></div>
         </>
     )
 };
