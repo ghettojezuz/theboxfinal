@@ -1,0 +1,57 @@
+.human-section {
+  padding-bottom: 64px;
+
+  .content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+    padding-bottom: 20px;
+
+    @media (min-width: $tabletWidth) {
+      padding-top: 32px;
+      padding-bottom: 30px;
+    }
+
+    @media (min-width: $smDesktopWidth) {
+      margin-top: 100px;
+    }
+
+    &__title {
+      text-align: center;
+      max-width: 550px;
+    }
+
+    &__text {
+      width: 50%;
+      text-align: center;
+      margin-top: 16px;
+
+      @media (min-width: $tabletWidth) {
+        margin-top: 32px;
+      }
+
+      @media (max-width: $smDesktopWidth){
+        width: 50%;
+      }
+    }
+
+    #human {
+      width: 250px;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 70px;
+      display: none;
+
+      @media (min-width: $smDesktopWidth) and (max-width: $desktopWidth){
+        left: 0;
+      }
+      @media (min-width: $smDesktopWidth){
+        display: block;
+      }
+    }
+  }
+}
