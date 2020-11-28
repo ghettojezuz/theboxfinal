@@ -1,7 +1,7 @@
 # The box project
 
 ### Demo
-Url: https://theboxfinal.netlify.app/app/user/oes/ural
+Url: https://theboxfinal.netlify.app/
 
 Логин: cat
 Пароль: meow
