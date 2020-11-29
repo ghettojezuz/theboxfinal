@@ -1,4 +1,4 @@
-export const data_predicted_min = [
+export const predicted_parallel = [
     {
         "hour": 0,
         "date": "01.01.2018",
@@ -6219,6570 +6219,6570 @@ export const data_predicted_min = [
         "hour": 0,
         "date": "02.11.2020",
         "fact_value": 0,
-        "predict_value": 28594.15234375
+        "predict_value": 29497.091796875
     },
     {
         "hour": 0,
         "date": "03.11.2020",
         "fact_value": 0,
-        "predict_value": 28046.662109375
+        "predict_value": 28601.8046875
     },
     {
         "hour": 0,
         "date": "04.11.2020",
         "fact_value": 0,
-        "predict_value": 27503.814453125
+        "predict_value": 28287.955078125
     },
     {
         "hour": 0,
         "date": "05.11.2020",
         "fact_value": 0,
-        "predict_value": 27999.11328125
+        "predict_value": 28379.58203125
     },
     {
         "hour": 0,
         "date": "06.11.2020",
         "fact_value": 0,
-        "predict_value": 27274.744140625
+        "predict_value": 27857.59375
     },
     {
         "hour": 0,
         "date": "07.11.2020",
         "fact_value": 0,
-        "predict_value": 29762.447265625
+        "predict_value": 30161.537109375
     },
     {
         "hour": 0,
         "date": "08.11.2020",
         "fact_value": 0,
-        "predict_value": 29382.740234375
+        "predict_value": 29811.53125
     },
     {
         "hour": 0,
         "date": "09.11.2020",
         "fact_value": 0,
-        "predict_value": 29211.498046875
+        "predict_value": 29863.857421875
     },
     {
         "hour": 0,
         "date": "10.11.2020",
         "fact_value": 0,
-        "predict_value": 28505.11328125
+        "predict_value": 28712.533203125
     },
     {
         "hour": 0,
         "date": "11.11.2020",
         "fact_value": 0,
-        "predict_value": 26274.0078125
+        "predict_value": 27654.466796875
     },
     {
         "hour": 0,
         "date": "12.11.2020",
         "fact_value": 0,
-        "predict_value": 28233.34375
+        "predict_value": 29263.791015625
     },
     {
         "hour": 0,
         "date": "13.11.2020",
         "fact_value": 0,
-        "predict_value": 29823.7578125
+        "predict_value": 29587.126953125
     },
     {
         "hour": 0,
         "date": "14.11.2020",
         "fact_value": 0,
-        "predict_value": 28984.828125
+        "predict_value": 29555.828125
     },
     {
         "hour": 0,
         "date": "15.11.2020",
         "fact_value": 0,
-        "predict_value": 29235.35546875
+        "predict_value": 29928.509765625
     },
     {
         "hour": 0,
         "date": "16.11.2020",
         "fact_value": 0,
-        "predict_value": 29495.818359375
+        "predict_value": 29823.99609375
     },
     {
         "hour": 0,
         "date": "17.11.2020",
         "fact_value": 0,
-        "predict_value": 29664.380859375
+        "predict_value": 29301.671875
     },
     {
         "hour": 0,
         "date": "18.11.2020",
         "fact_value": 0,
-        "predict_value": 29096.541015625
+        "predict_value": 29292.8984375
     },
     {
         "hour": 0,
         "date": "19.11.2020",
         "fact_value": 0,
-        "predict_value": 29847
+        "predict_value": 30692.244140625
     },
     {
         "hour": 0,
         "date": "20.11.2020",
         "fact_value": 0,
-        "predict_value": 30669.173828125
+        "predict_value": 31289.77734375
     },
     {
         "hour": 0,
         "date": "21.11.2020",
         "fact_value": 0,
-        "predict_value": 31379.35546875
+        "predict_value": 32315.431640625
     },
     {
         "hour": 0,
         "date": "22.11.2020",
         "fact_value": 0,
-        "predict_value": 31379.7578125
+        "predict_value": 32243.416015625
     },
     {
         "hour": 0,
         "date": "23.11.2020",
         "fact_value": 0,
-        "predict_value": 31835.796875
+        "predict_value": 32103.77734375
     },
     {
         "hour": 0,
         "date": "24.11.2020",
         "fact_value": 0,
-        "predict_value": 30691.3828125
+        "predict_value": 30552.48828125
     },
     {
         "hour": 0,
         "date": "25.11.2020",
         "fact_value": 0,
-        "predict_value": 28586.69140625
+        "predict_value": 30467.056640625
     },
     {
         "hour": 0,
         "date": "26.11.2020",
         "fact_value": 0,
-        "predict_value": 30353.751953125
+        "predict_value": 31206.7578125
     },
     {
         "hour": 0,
         "date": "27.11.2020",
         "fact_value": 0,
-        "predict_value": 32586.01953125
+        "predict_value": 31946.109375
     },
     {
         "hour": 0,
         "date": "28.11.2020",
         "fact_value": 0,
-        "predict_value": 32647.443359375
+        "predict_value": 32529.806640625
     },
     {
         "hour": 0,
         "date": "29.11.2020",
         "fact_value": 0,
-        "predict_value": 33019.67578125
+        "predict_value": 33114.68359375
     },
     {
         "hour": 0,
         "date": "30.11.2020",
         "fact_value": 0,
-        "predict_value": 33289.3515625
+        "predict_value": 32778.08203125
     },
     {
         "hour": 0,
         "date": "01.12.2020",
         "fact_value": 0,
-        "predict_value": 30776.21484375
+        "predict_value": 31747.271484375
     },
     {
         "hour": 0,
         "date": "02.12.2020",
         "fact_value": 0,
-        "predict_value": 29843.4296875
+        "predict_value": 30453.5703125
     },
     {
         "hour": 0,
         "date": "03.12.2020",
         "fact_value": 0,
-        "predict_value": 30726.46875
+        "predict_value": 32790.0234375
     },
     {
         "hour": 0,
         "date": "04.12.2020",
         "fact_value": 0,
-        "predict_value": 33128.79296875
+        "predict_value": 33138.6875
     },
     {
         "hour": 0,
         "date": "05.12.2020",
         "fact_value": 0,
-        "predict_value": 32389.51171875
+        "predict_value": 33682.68359375
     },
     {
         "hour": 0,
         "date": "06.12.2020",
         "fact_value": 0,
-        "predict_value": 32528.556640625
+        "predict_value": 33139.84765625
     },
     {
         "hour": 0,
         "date": "07.12.2020",
         "fact_value": 0,
-        "predict_value": 32647.556640625
+        "predict_value": 32930.86328125
     },
     {
         "hour": 0,
         "date": "08.12.2020",
         "fact_value": 0,
-        "predict_value": 31941.759765625
+        "predict_value": 31624.34375
     },
     {
         "hour": 0,
         "date": "09.12.2020",
         "fact_value": 0,
-        "predict_value": 31453.904296875
+        "predict_value": 30948.66796875
     },
     {
         "hour": 0,
         "date": "10.12.2020",
         "fact_value": 0,
-        "predict_value": 31255.392578125
+        "predict_value": 32656.583984375
     },
     {
         "hour": 0,
         "date": "11.12.2020",
         "fact_value": 0,
-        "predict_value": 32354.18359375
+        "predict_value": 32453.388671875
     },
     {
         "hour": 0,
         "date": "12.12.2020",
         "fact_value": 0,
-        "predict_value": 32475.375
+        "predict_value": 32997.35546875
     },
     {
         "hour": 0,
         "date": "13.12.2020",
         "fact_value": 0,
-        "predict_value": 32470.15625
+        "predict_value": 33099.80078125
     },
     {
         "hour": 0,
         "date": "14.12.2020",
         "fact_value": 0,
-        "predict_value": 32866.3515625
+        "predict_value": 32605.16796875
     },
     {
         "hour": 0,
         "date": "15.12.2020",
         "fact_value": 0,
-        "predict_value": 31208.044921875
+        "predict_value": 30761.267578125
     },
     {
         "hour": 0,
         "date": "16.12.2020",
         "fact_value": 0,
-        "predict_value": 29648.35546875
+        "predict_value": 30298.955078125
     },
     {
         "hour": 0,
         "date": "17.12.2020",
         "fact_value": 0,
-        "predict_value": 31212
+        "predict_value": 31936.314453125
     },
     {
         "hour": 0,
         "date": "18.12.2020",
         "fact_value": 0,
-        "predict_value": 31906.2578125
+        "predict_value": 32746.21875
     },
     {
         "hour": 0,
         "date": "19.12.2020",
         "fact_value": 0,
-        "predict_value": 32923.578125
+        "predict_value": 32439.947265625
     },
     {
         "hour": 0,
         "date": "20.12.2020",
         "fact_value": 0,
-        "predict_value": 32242.626953125
+        "predict_value": 32247.556640625
     },
     {
         "hour": 0,
         "date": "21.12.2020",
         "fact_value": 0,
-        "predict_value": 32642.71875
+        "predict_value": 31612.951171875
     },
     {
         "hour": 0,
         "date": "22.12.2020",
         "fact_value": 0,
-        "predict_value": 31106.970703125
+        "predict_value": 30336.619140625
     },
     {
         "hour": 0,
         "date": "23.12.2020",
         "fact_value": 0,
-        "predict_value": 29998.009765625
+        "predict_value": 30313.177734375
     },
     {
         "hour": 0,
         "date": "24.12.2020",
         "fact_value": 0,
-        "predict_value": 30594.388671875
+        "predict_value": 31199.6875
     },
     {
         "hour": 0,
         "date": "25.12.2020",
         "fact_value": 0,
-        "predict_value": 31876.693359375
+        "predict_value": 32082.00390625
     },
     {
         "hour": 0,
         "date": "26.12.2020",
         "fact_value": 0,
-        "predict_value": 31773.029296875
+        "predict_value": 31762.146484375
     },
     {
         "hour": 0,
         "date": "27.12.2020",
         "fact_value": 0,
-        "predict_value": 32249.466796875
+        "predict_value": 32323.986328125
     },
     {
         "hour": 0,
         "date": "28.12.2020",
         "fact_value": 0,
-        "predict_value": 32589.03515625
+        "predict_value": 32350.36328125
     },
     {
         "hour": 0,
         "date": "29.12.2020",
         "fact_value": 0,
-        "predict_value": 30659.029296875
+        "predict_value": 31771.669921875
     },
     {
         "hour": 0,
         "date": "30.12.2020",
         "fact_value": 0,
-        "predict_value": 30703.357421875
+        "predict_value": 31414.51953125
     },
     {
         "hour": 0,
         "date": "31.12.2020",
         "fact_value": 0,
-        "predict_value": 30912.318359375
+        "predict_value": 32446.111328125
     },
     {
         "hour": 0,
         "date": "01.01.2021",
         "fact_value": 0,
-        "predict_value": 31197.923828125
+        "predict_value": 32520.28515625
     },
     {
         "hour": 0,
         "date": "02.01.2021",
         "fact_value": 0,
-        "predict_value": 29347.244140625
+        "predict_value": 30758.619140625
     },
     {
         "hour": 0,
         "date": "03.01.2021",
         "fact_value": 0,
-        "predict_value": 27035.064453125
+        "predict_value": 27436.837890625
     },
     {
         "hour": 0,
         "date": "04.01.2021",
         "fact_value": 0,
-        "predict_value": 27733.884765625
+        "predict_value": 27682.029296875
     },
     {
         "hour": 0,
         "date": "05.01.2021",
         "fact_value": 0,
-        "predict_value": 28308.294921875
+        "predict_value": 28354.255859375
     },
     {
         "hour": 0,
         "date": "06.01.2021",
         "fact_value": 0,
-        "predict_value": 28874.109375
+        "predict_value": 28403.318359375
     },
     {
         "hour": 0,
         "date": "07.01.2021",
         "fact_value": 0,
-        "predict_value": 28298.974609375
+        "predict_value": 29232.646484375
     },
     {
         "hour": 0,
         "date": "08.01.2021",
         "fact_value": 0,
-        "predict_value": 29134.3671875
+        "predict_value": 30071.23046875
     },
     {
         "hour": 0,
         "date": "09.01.2021",
         "fact_value": 0,
-        "predict_value": 28880.498046875
+        "predict_value": 30204.47265625
     },
     {
         "hour": 0,
         "date": "10.01.2021",
         "fact_value": 0,
-        "predict_value": 30163.888671875
+        "predict_value": 30933.251953125
     },
     {
         "hour": 0,
         "date": "11.01.2021",
         "fact_value": 0,
-        "predict_value": 30070.376953125
+        "predict_value": 31117.146484375
     },
     {
         "hour": 0,
         "date": "12.01.2021",
         "fact_value": 0,
-        "predict_value": 30224.16796875
+        "predict_value": 30439.591796875
     },
     {
         "hour": 0,
         "date": "13.01.2021",
         "fact_value": 0,
-        "predict_value": 29060.296875
+        "predict_value": 29127.40234375
     },
     {
         "hour": 0,
         "date": "14.01.2021",
         "fact_value": 0,
-        "predict_value": 29832.927734375
+        "predict_value": 30850.33203125
     },
     {
         "hour": 0,
         "date": "15.01.2021",
         "fact_value": 0,
-        "predict_value": 31568.60546875
+        "predict_value": 31903.27734375
     },
     {
         "hour": 0,
         "date": "16.01.2021",
         "fact_value": 0,
-        "predict_value": 30940.142578125
+        "predict_value": 31719.310546875
     },
     {
         "hour": 0,
         "date": "17.01.2021",
         "fact_value": 0,
-        "predict_value": 31883.69140625
+        "predict_value": 31441.375
     },
     {
         "hour": 0,
         "date": "18.01.2021",
         "fact_value": 0,
-        "predict_value": 31327.6640625
+        "predict_value": 31931.857421875
     },
     {
         "hour": 0,
         "date": "19.01.2021",
         "fact_value": 0,
-        "predict_value": 30745.19921875
+        "predict_value": 30813.169921875
     },
     {
         "hour": 0,
         "date": "20.01.2021",
         "fact_value": 0,
-        "predict_value": 30000.205078125
+        "predict_value": 30289.01171875
     },
     {
         "hour": 0,
         "date": "21.01.2021",
         "fact_value": 0,
-        "predict_value": 30980.84375
+        "predict_value": 31451.638671875
     },
     {
         "hour": 0,
         "date": "22.01.2021",
         "fact_value": 0,
-        "predict_value": 32834.86328125
+        "predict_value": 32375.2109375
     },
     {
         "hour": 0,
         "date": "23.01.2021",
         "fact_value": 0,
-        "predict_value": 33587.05078125
+        "predict_value": 33475.6953125
     },
     {
         "hour": 0,
         "date": "24.01.2021",
         "fact_value": 0,
-        "predict_value": 34059.06640625
+        "predict_value": 33712.828125
     },
     {
         "hour": 0,
         "date": "25.01.2021",
         "fact_value": 0,
-        "predict_value": 34118.30078125
+        "predict_value": 34226.171875
     },
     {
         "hour": 0,
         "date": "26.01.2021",
         "fact_value": 0,
-        "predict_value": 32608.826171875
+        "predict_value": 31497.029296875
     },
     {
         "hour": 0,
         "date": "27.01.2021",
         "fact_value": 0,
-        "predict_value": 31381.34765625
+        "predict_value": 31352.076171875
     },
     {
         "hour": 0,
         "date": "28.01.2021",
         "fact_value": 0,
-        "predict_value": 33014.20703125
+        "predict_value": 33087.6796875
     },
     {
         "hour": 0,
         "date": "29.01.2021",
         "fact_value": 0,
-        "predict_value": 34182.31640625
+        "predict_value": 33474.62109375
     },
     {
         "hour": 0,
         "date": "30.01.2021",
         "fact_value": 0,
-        "predict_value": 33303.37109375
+        "predict_value": 33618.7265625
     },
     {
         "hour": 0,
         "date": "31.01.2021",
         "fact_value": 0,
-        "predict_value": 33984.05078125
+        "predict_value": 32948.5078125
     },
     {
         "hour": 0,
         "date": "01.02.2021",
         "fact_value": 0,
-        "predict_value": 33953.5078125
+        "predict_value": 33246.44921875
     },
     {
         "hour": 0,
         "date": "02.02.2021",
         "fact_value": 0,
-        "predict_value": 32889.65625
+        "predict_value": 31780.064453125
     },
     {
         "hour": 0,
         "date": "03.02.2021",
         "fact_value": 0,
-        "predict_value": 30889.08984375
+        "predict_value": 30641.6328125
     },
     {
         "hour": 0,
         "date": "04.02.2021",
         "fact_value": 0,
-        "predict_value": 32027.30859375
+        "predict_value": 31548.8046875
     },
     {
         "hour": 0,
         "date": "05.02.2021",
         "fact_value": 0,
-        "predict_value": 33427.4609375
+        "predict_value": 32728.671875
     },
     {
         "hour": 0,
         "date": "06.02.2021",
         "fact_value": 0,
-        "predict_value": 32417.462890625
+        "predict_value": 32554.708984375
     },
     {
         "hour": 0,
         "date": "07.02.2021",
         "fact_value": 0,
-        "predict_value": 33197.64453125
+        "predict_value": 32248.1484375
     },
     {
         "hour": 0,
         "date": "08.02.2021",
         "fact_value": 0,
-        "predict_value": 32409.072265625
+        "predict_value": 32664.083984375
     },
     {
         "hour": 0,
         "date": "09.02.2021",
         "fact_value": 0,
-        "predict_value": 31631.19921875
+        "predict_value": 31351.8828125
     },
     {
         "hour": 0,
         "date": "10.02.2021",
         "fact_value": 0,
-        "predict_value": 30714.26953125
+        "predict_value": 30394.31640625
     },
     {
         "hour": 0,
         "date": "11.02.2021",
         "fact_value": 0,
-        "predict_value": 31525.931640625
+        "predict_value": 31835.451171875
     },
     {
         "hour": 0,
         "date": "12.02.2021",
         "fact_value": 0,
-        "predict_value": 32624.958984375
+        "predict_value": 32977.5546875
     },
     {
         "hour": 0,
         "date": "13.02.2021",
         "fact_value": 0,
-        "predict_value": 32325.486328125
+        "predict_value": 32468.294921875
     },
     {
         "hour": 0,
         "date": "14.02.2021",
         "fact_value": 0,
-        "predict_value": 31432.162109375
+        "predict_value": 32199.365234375
     },
     {
         "hour": 0,
         "date": "15.02.2021",
         "fact_value": 0,
-        "predict_value": 31289.552734375
+        "predict_value": 32279.013671875
     },
     {
         "hour": 0,
         "date": "16.02.2021",
         "fact_value": 0,
-        "predict_value": 30411.0625
+        "predict_value": 30102.046875
     },
     {
         "hour": 0,
         "date": "17.02.2021",
         "fact_value": 0,
-        "predict_value": 29286.720703125
+        "predict_value": 29439.287109375
     },
     {
         "hour": 0,
         "date": "18.02.2021",
         "fact_value": 0,
-        "predict_value": 30803.5390625
+        "predict_value": 31674.8828125
     },
     {
         "hour": 0,
         "date": "19.02.2021",
         "fact_value": 0,
-        "predict_value": 31305.884765625
+        "predict_value": 32236.802734375
     },
     {
         "hour": 0,
         "date": "20.02.2021",
         "fact_value": 0,
-        "predict_value": 32086.212890625
+        "predict_value": 31850.66796875
     },
     {
         "hour": 0,
         "date": "21.02.2021",
         "fact_value": 0,
-        "predict_value": 31408.40234375
+        "predict_value": 31640.701171875
     },
     {
         "hour": 0,
         "date": "22.02.2021",
         "fact_value": 0,
-        "predict_value": 31531.4375
+        "predict_value": 31864.390625
     },
     {
         "hour": 0,
         "date": "23.02.2021",
         "fact_value": 0,
-        "predict_value": 30592.724609375
+        "predict_value": 29466.61328125
     },
     {
         "hour": 0,
         "date": "24.02.2021",
         "fact_value": 0,
-        "predict_value": 29205.671875
+        "predict_value": 29079.013671875
     },
     {
         "hour": 0,
         "date": "25.02.2021",
         "fact_value": 0,
-        "predict_value": 28076.375
+        "predict_value": 28754.466796875
     },
     {
         "hour": 0,
         "date": "26.02.2021",
         "fact_value": 0,
-        "predict_value": 30376.6328125
+        "predict_value": 30007.037109375
     },
     {
         "hour": 0,
         "date": "27.02.2021",
         "fact_value": 0,
-        "predict_value": 30473.330078125
+        "predict_value": 30741.587890625
     },
     {
         "hour": 0,
         "date": "28.02.2021",
         "fact_value": 0,
-        "predict_value": 29921.61328125
+        "predict_value": 30660.97265625
     },
     {
         "hour": 0,
         "date": "01.03.2021",
         "fact_value": 0,
-        "predict_value": 31440.171875
+        "predict_value": 31093.501953125
     },
     {
         "hour": 0,
         "date": "02.03.2021",
         "fact_value": 0,
-        "predict_value": 29060.2109375
+        "predict_value": 29657.509765625
     },
     {
         "hour": 0,
         "date": "03.03.2021",
         "fact_value": 0,
-        "predict_value": 28221.68359375
+        "predict_value": 28982.873046875
     },
     {
         "hour": 0,
         "date": "04.03.2021",
         "fact_value": 0,
-        "predict_value": 29503.310546875
+        "predict_value": 30245.138671875
     },
     {
         "hour": 0,
         "date": "05.03.2021",
         "fact_value": 0,
-        "predict_value": 31748.2578125
+        "predict_value": 31041.416015625
     },
     {
         "hour": 0,
         "date": "06.03.2021",
         "fact_value": 0,
-        "predict_value": 30262.408203125
+        "predict_value": 30733.236328125
     },
     {
         "hour": 0,
         "date": "07.03.2021",
         "fact_value": 0,
-        "predict_value": 31350.953125
+        "predict_value": 30848.798828125
     },
     {
         "hour": 0,
         "date": "08.03.2021",
         "fact_value": 0,
-        "predict_value": 30228.513671875
+        "predict_value": 29999.408203125
     },
     {
         "hour": 0,
         "date": "09.03.2021",
         "fact_value": 0,
-        "predict_value": 29053.6875
+        "predict_value": 29397.96875
     },
     {
         "hour": 0,
         "date": "10.03.2021",
         "fact_value": 0,
-        "predict_value": 27333.9140625
+        "predict_value": 27832.31640625
     },
     {
         "hour": 0,
         "date": "11.03.2021",
         "fact_value": 0,
-        "predict_value": 26400.05859375
+        "predict_value": 27784.3984375
     },
     {
         "hour": 0,
         "date": "12.03.2021",
         "fact_value": 0,
-        "predict_value": 28420.02734375
+        "predict_value": 28735.916015625
     },
     {
         "hour": 0,
         "date": "13.03.2021",
         "fact_value": 0,
-        "predict_value": 28446.08984375
+        "predict_value": 29245.607421875
     },
     {
         "hour": 0,
         "date": "14.03.2021",
         "fact_value": 0,
-        "predict_value": 28980.287109375
+        "predict_value": 28915.0234375
     },
     {
         "hour": 0,
         "date": "15.03.2021",
         "fact_value": 0,
-        "predict_value": 28199.072265625
+        "predict_value": 29547.19140625
     },
     {
         "hour": 0,
         "date": "16.03.2021",
         "fact_value": 0,
-        "predict_value": 28680.623046875
+        "predict_value": 28532.822265625
     },
     {
         "hour": 0,
         "date": "17.03.2021",
         "fact_value": 0,
-        "predict_value": 26178.091796875
+        "predict_value": 27316.86328125
     },
     {
         "hour": 0,
         "date": "18.03.2021",
         "fact_value": 0,
-        "predict_value": 28487.13671875
+        "predict_value": 28780.037109375
     },
     {
         "hour": 0,
         "date": "19.03.2021",
         "fact_value": 0,
-        "predict_value": 28608.943359375
+        "predict_value": 29411.416015625
     },
     {
         "hour": 0,
         "date": "20.03.2021",
         "fact_value": 0,
-        "predict_value": 28998.28125
+        "predict_value": 28931.87109375
     },
     {
         "hour": 0,
         "date": "21.03.2021",
         "fact_value": 0,
-        "predict_value": 29156.375
+        "predict_value": 28790.12890625
     },
     {
         "hour": 0,
         "date": "22.03.2021",
         "fact_value": 0,
-        "predict_value": 29417.1875
+        "predict_value": 28826.591796875
     },
     {
         "hour": 0,
         "date": "23.03.2021",
         "fact_value": 0,
-        "predict_value": 28639.234375
+        "predict_value": 28246.533203125
     },
     {
         "hour": 0,
         "date": "24.03.2021",
         "fact_value": 0,
-        "predict_value": 27660.013671875
+        "predict_value": 27640.798828125
     },
     {
         "hour": 0,
         "date": "25.03.2021",
         "fact_value": 0,
-        "predict_value": 27598.8359375
+        "predict_value": 29201.984375
     },
     {
         "hour": 0,
         "date": "26.03.2021",
         "fact_value": 0,
-        "predict_value": 29457.2890625
+        "predict_value": 29584.70703125
     },
     {
         "hour": 0,
         "date": "27.03.2021",
         "fact_value": 0,
-        "predict_value": 28263.505859375
+        "predict_value": 28566.205078125
     },
     {
         "hour": 0,
         "date": "28.03.2021",
         "fact_value": 0,
-        "predict_value": 28717.3515625
+        "predict_value": 28946.666015625
     },
     {
         "hour": 0,
         "date": "29.03.2021",
         "fact_value": 0,
-        "predict_value": 28798.87890625
+        "predict_value": 29300.56640625
     },
     {
         "hour": 0,
         "date": "30.03.2021",
         "fact_value": 0,
-        "predict_value": 28376.46875
+        "predict_value": 28175.7734375
     },
     {
         "hour": 0,
         "date": "31.03.2021",
         "fact_value": 0,
-        "predict_value": 27377.94140625
+        "predict_value": 27989.9609375
     },
     {
         "hour": 0,
         "date": "01.04.2021",
         "fact_value": 0,
-        "predict_value": 29223.060546875
+        "predict_value": 29246.615234375
     },
     {
         "hour": 0,
         "date": "02.04.2021",
         "fact_value": 0,
-        "predict_value": 30207.32421875
+        "predict_value": 30095.197265625
     },
     {
         "hour": 0,
         "date": "03.04.2021",
         "fact_value": 0,
-        "predict_value": 29277.296875
+        "predict_value": 30015.24609375
     },
     {
         "hour": 0,
         "date": "04.04.2021",
         "fact_value": 0,
-        "predict_value": 28707.478515625
+        "predict_value": 29843.95703125
     },
     {
         "hour": 0,
         "date": "05.04.2021",
         "fact_value": 0,
-        "predict_value": 30553.857421875
+        "predict_value": 30226.134765625
     },
     {
         "hour": 0,
         "date": "06.04.2021",
         "fact_value": 0,
-        "predict_value": 29653.7109375
+        "predict_value": 27970.75
     },
     {
         "hour": 0,
         "date": "07.04.2021",
         "fact_value": 0,
-        "predict_value": 27446.736328125
+        "predict_value": 27120.828125
     },
     {
         "hour": 0,
         "date": "08.04.2021",
         "fact_value": 0,
-        "predict_value": 27366.39453125
+        "predict_value": 28526.388671875
     },
     {
         "hour": 0,
         "date": "09.04.2021",
         "fact_value": 0,
-        "predict_value": 28463.857421875
+        "predict_value": 28420.1328125
     },
     {
         "hour": 0,
         "date": "10.04.2021",
         "fact_value": 0,
-        "predict_value": 28678.81640625
+        "predict_value": 29105.31640625
     },
     {
         "hour": 0,
         "date": "11.04.2021",
         "fact_value": 0,
-        "predict_value": 28250.552734375
+        "predict_value": 28529.509765625
     },
     {
         "hour": 0,
         "date": "12.04.2021",
         "fact_value": 0,
-        "predict_value": 29303.744140625
+        "predict_value": 28343.896484375
     },
     {
         "hour": 0,
         "date": "13.04.2021",
         "fact_value": 0,
-        "predict_value": 27566.013671875
+        "predict_value": 27142.201171875
     },
     {
         "hour": 0,
         "date": "14.04.2021",
         "fact_value": 0,
-        "predict_value": 25047.052734375
+        "predict_value": 24978.55078125
     },
     {
         "hour": 0,
         "date": "15.04.2021",
         "fact_value": 0,
-        "predict_value": 26345.111328125
+        "predict_value": 26964.087890625
     },
     {
         "hour": 0,
         "date": "16.04.2021",
         "fact_value": 0,
-        "predict_value": 27374.076171875
+        "predict_value": 27460.599609375
     },
     {
         "hour": 0,
         "date": "17.04.2021",
         "fact_value": 0,
-        "predict_value": 28316.56640625
+        "predict_value": 27779.26953125
     },
     {
         "hour": 0,
         "date": "18.04.2021",
         "fact_value": 0,
-        "predict_value": 27598.896484375
+        "predict_value": 28119.271484375
     },
     {
         "hour": 0,
         "date": "19.04.2021",
         "fact_value": 0,
-        "predict_value": 27569.83984375
+        "predict_value": 27533.908203125
     },
     {
         "hour": 0,
         "date": "20.04.2021",
         "fact_value": 0,
-        "predict_value": 26237.408203125
+        "predict_value": 26698.98046875
     },
     {
         "hour": 0,
         "date": "21.04.2021",
         "fact_value": 0,
-        "predict_value": 25443.12890625
+        "predict_value": 25914.349609375
     },
     {
         "hour": 0,
         "date": "22.04.2021",
         "fact_value": 0,
-        "predict_value": 26462.9765625
+        "predict_value": 27545.39453125
     },
     {
         "hour": 0,
         "date": "23.04.2021",
         "fact_value": 0,
-        "predict_value": 26529.099609375
+        "predict_value": 27552.6875
     },
     {
         "hour": 0,
         "date": "24.04.2021",
         "fact_value": 0,
-        "predict_value": 27267.048828125
+        "predict_value": 27483.287109375
     },
     {
         "hour": 0,
         "date": "25.04.2021",
         "fact_value": 0,
-        "predict_value": 26415.03125
+        "predict_value": 27348.474609375
     },
     {
         "hour": 0,
         "date": "26.04.2021",
         "fact_value": 0,
-        "predict_value": 26761.326171875
+        "predict_value": 27769.2734375
     },
     {
         "hour": 0,
         "date": "27.04.2021",
         "fact_value": 0,
-        "predict_value": 25409.712890625
+        "predict_value": 26277.51171875
     },
     {
         "hour": 0,
         "date": "28.04.2021",
         "fact_value": 0,
-        "predict_value": 25494.71875
+        "predict_value": 25154.544921875
     },
     {
         "hour": 0,
         "date": "29.04.2021",
         "fact_value": 0,
-        "predict_value": 25602.408203125
+        "predict_value": 25750.74609375
     },
     {
         "hour": 0,
         "date": "30.04.2021",
         "fact_value": 0,
-        "predict_value": 25983.884765625
+        "predict_value": 26095.63671875
     },
     {
         "hour": 0,
         "date": "01.05.2021",
         "fact_value": 0,
-        "predict_value": 24501.212890625
+        "predict_value": 25100.349609375
     },
     {
         "hour": 0,
         "date": "02.05.2021",
         "fact_value": 0,
-        "predict_value": 24444.416015625
+        "predict_value": 24619.201171875
     },
     {
         "hour": 0,
         "date": "03.05.2021",
         "fact_value": 0,
-        "predict_value": 22741.794921875
+        "predict_value": 22872.625
     },
     {
         "hour": 0,
         "date": "04.05.2021",
         "fact_value": 0,
-        "predict_value": 22653.85546875
+        "predict_value": 22996.333984375
     },
     {
         "hour": 0,
         "date": "05.05.2021",
         "fact_value": 0,
-        "predict_value": 23220.455078125
+        "predict_value": 22734.087890625
     },
     {
         "hour": 0,
         "date": "06.05.2021",
         "fact_value": 0,
-        "predict_value": 24058.369140625
+        "predict_value": 23086.0703125
     },
     {
         "hour": 0,
         "date": "07.05.2021",
         "fact_value": 0,
-        "predict_value": 26093.595703125
+        "predict_value": 24751.078125
     },
     {
         "hour": 0,
         "date": "08.05.2021",
         "fact_value": 0,
-        "predict_value": 26577.69140625
+        "predict_value": 25358.134765625
     },
     {
         "hour": 0,
         "date": "09.05.2021",
         "fact_value": 0,
-        "predict_value": 24943.40234375
+        "predict_value": 24898.1640625
     },
     {
         "hour": 0,
         "date": "10.05.2021",
         "fact_value": 0,
-        "predict_value": 25249.97265625
+        "predict_value": 24323.16796875
     },
     {
         "hour": 0,
         "date": "11.05.2021",
         "fact_value": 0,
-        "predict_value": 22094.8984375
+        "predict_value": 21678.9765625
     },
     {
         "hour": 0,
         "date": "12.05.2021",
         "fact_value": 0,
-        "predict_value": 22515.1640625
+        "predict_value": 22608.625
     },
     {
         "hour": 0,
         "date": "13.05.2021",
         "fact_value": 0,
-        "predict_value": 22303.037109375
+        "predict_value": 22569.142578125
     },
     {
         "hour": 0,
         "date": "14.05.2021",
         "fact_value": 0,
-        "predict_value": 24396.21484375
+        "predict_value": 23829.51953125
     },
     {
         "hour": 0,
         "date": "15.05.2021",
         "fact_value": 0,
-        "predict_value": 24889.29296875
+        "predict_value": 24268.802734375
     },
     {
         "hour": 0,
         "date": "16.05.2021",
         "fact_value": 0,
-        "predict_value": 23658.755859375
+        "predict_value": 24675.25390625
     },
     {
         "hour": 0,
         "date": "17.05.2021",
         "fact_value": 0,
-        "predict_value": 24697.21484375
+        "predict_value": 24461.341796875
     },
     {
         "hour": 0,
         "date": "18.05.2021",
         "fact_value": 0,
-        "predict_value": 23557.486328125
+        "predict_value": 23777.888671875
     },
     {
         "hour": 0,
         "date": "19.05.2021",
         "fact_value": 0,
-        "predict_value": 22469.22265625
+        "predict_value": 23935.498046875
     },
     {
         "hour": 0,
         "date": "20.05.2021",
         "fact_value": 0,
-        "predict_value": 24365.748046875
+        "predict_value": 25163
     },
     {
         "hour": 0,
         "date": "21.05.2021",
         "fact_value": 0,
-        "predict_value": 25688.21875
+        "predict_value": 25572.06640625
     },
     {
         "hour": 0,
         "date": "22.05.2021",
         "fact_value": 0,
-        "predict_value": 24859.802734375
+        "predict_value": 24656.08984375
     },
     {
         "hour": 0,
         "date": "23.05.2021",
         "fact_value": 0,
-        "predict_value": 24720.25
+        "predict_value": 24832.8828125
     },
     {
         "hour": 0,
         "date": "24.05.2021",
         "fact_value": 0,
-        "predict_value": 23361.787109375
+        "predict_value": 24185.255859375
     },
     {
         "hour": 0,
         "date": "25.05.2021",
         "fact_value": 0,
-        "predict_value": 23025.810546875
+        "predict_value": 23275.22265625
     },
     {
         "hour": 0,
         "date": "26.05.2021",
         "fact_value": 0,
-        "predict_value": 23611.763671875
+        "predict_value": 23278.265625
     },
     {
         "hour": 0,
         "date": "27.05.2021",
         "fact_value": 0,
-        "predict_value": 23840.572265625
+        "predict_value": 24155.91796875
     },
     {
         "hour": 0,
         "date": "28.05.2021",
         "fact_value": 0,
-        "predict_value": 25313.244140625
+        "predict_value": 24290.701171875
     },
     {
         "hour": 0,
         "date": "29.05.2021",
         "fact_value": 0,
-        "predict_value": 25708.27734375
+        "predict_value": 25074.720703125
     },
     {
         "hour": 0,
         "date": "30.05.2021",
         "fact_value": 0,
-        "predict_value": 24789.455078125
+        "predict_value": 24890.24609375
     },
     {
         "hour": 0,
         "date": "31.05.2021",
         "fact_value": 0,
-        "predict_value": 25287.384765625
+        "predict_value": 25038.404296875
     },
     {
         "hour": 0,
         "date": "01.06.2021",
         "fact_value": 0,
-        "predict_value": 24227.912109375
+        "predict_value": 23615.697265625
     },
     {
         "hour": 0,
         "date": "02.06.2021",
         "fact_value": 0,
-        "predict_value": 22186.560546875
+        "predict_value": 22711.935546875
     },
     {
         "hour": 0,
         "date": "03.06.2021",
         "fact_value": 0,
-        "predict_value": 23308.294921875
+        "predict_value": 23977.470703125
     },
     {
         "hour": 0,
         "date": "04.06.2021",
         "fact_value": 0,
-        "predict_value": 24034.09375
+        "predict_value": 24510.244140625
     },
     {
         "hour": 0,
         "date": "05.06.2021",
         "fact_value": 0,
-        "predict_value": 24111.068359375
+        "predict_value": 24488.54296875
     },
     {
         "hour": 0,
         "date": "06.06.2021",
         "fact_value": 0,
-        "predict_value": 24040.53125
+        "predict_value": 24870.30078125
     },
     {
         "hour": 0,
         "date": "07.06.2021",
         "fact_value": 0,
-        "predict_value": 24239.779296875
+        "predict_value": 24121.98828125
     },
     {
         "hour": 0,
         "date": "08.06.2021",
         "fact_value": 0,
-        "predict_value": 24434.66796875
+        "predict_value": 22826.22265625
     },
     {
         "hour": 0,
         "date": "09.06.2021",
         "fact_value": 0,
-        "predict_value": 23058.7890625
+        "predict_value": 22348.64453125
     },
     {
         "hour": 0,
         "date": "10.06.2021",
         "fact_value": 0,
-        "predict_value": 23286.59765625
+        "predict_value": 23941.859375
     },
     {
         "hour": 0,
         "date": "11.06.2021",
         "fact_value": 0,
-        "predict_value": 24190.03515625
+        "predict_value": 24542.9765625
     },
     {
         "hour": 0,
         "date": "12.06.2021",
         "fact_value": 0,
-        "predict_value": 23703.06640625
+        "predict_value": 23980.857421875
     },
     {
         "hour": 0,
         "date": "13.06.2021",
         "fact_value": 0,
-        "predict_value": 24175.873046875
+        "predict_value": 23843.302734375
     },
     {
         "hour": 0,
         "date": "14.06.2021",
         "fact_value": 0,
-        "predict_value": 21903.140625
+        "predict_value": 21942.103515625
     },
     {
         "hour": 0,
         "date": "15.06.2021",
         "fact_value": 0,
-        "predict_value": 21589.65234375
+        "predict_value": 22025.73828125
     },
     {
         "hour": 0,
         "date": "16.06.2021",
         "fact_value": 0,
-        "predict_value": 21959.30078125
+        "predict_value": 22341.0625
     },
     {
         "hour": 0,
         "date": "17.06.2021",
         "fact_value": 0,
-        "predict_value": 23078.794921875
+        "predict_value": 24156.056640625
     },
     {
         "hour": 0,
         "date": "18.06.2021",
         "fact_value": 0,
-        "predict_value": 24034.439453125
+        "predict_value": 24324.869140625
     },
     {
         "hour": 0,
         "date": "19.06.2021",
         "fact_value": 0,
-        "predict_value": 23743.830078125
+        "predict_value": 24035.97265625
     },
     {
         "hour": 0,
         "date": "20.06.2021",
         "fact_value": 0,
-        "predict_value": 23972.86328125
+        "predict_value": 23788.220703125
     },
     {
         "hour": 0,
         "date": "21.06.2021",
         "fact_value": 0,
-        "predict_value": 23466.751953125
+        "predict_value": 23845.17578125
     },
     {
         "hour": 0,
         "date": "22.06.2021",
         "fact_value": 0,
-        "predict_value": 22534.74609375
+        "predict_value": 23095.189453125
     },
     {
         "hour": 0,
         "date": "23.06.2021",
         "fact_value": 0,
-        "predict_value": 21783.623046875
+        "predict_value": 22142.521484375
     },
     {
         "hour": 0,
         "date": "24.06.2021",
         "fact_value": 0,
-        "predict_value": 24119.189453125
+        "predict_value": 23711.345703125
     },
     {
         "hour": 0,
         "date": "25.06.2021",
         "fact_value": 0,
-        "predict_value": 25211.158203125
+        "predict_value": 24475.470703125
     },
     {
         "hour": 0,
         "date": "26.06.2021",
         "fact_value": 0,
-        "predict_value": 24321.951171875
+        "predict_value": 24487.806640625
     },
     {
         "hour": 0,
         "date": "27.06.2021",
         "fact_value": 0,
-        "predict_value": 24075.1796875
+        "predict_value": 24817.767578125
     },
     {
         "hour": 0,
         "date": "28.06.2021",
         "fact_value": 0,
-        "predict_value": 24977.4296875
+        "predict_value": 24466.904296875
     },
     {
         "hour": 0,
         "date": "29.06.2021",
         "fact_value": 0,
-        "predict_value": 24108.41015625
+        "predict_value": 23231.591796875
     },
     {
         "hour": 0,
         "date": "30.06.2021",
         "fact_value": 0,
-        "predict_value": 23022.30078125
+        "predict_value": 22905.615234375
     },
     {
         "hour": 0,
         "date": "01.07.2021",
         "fact_value": 0,
-        "predict_value": 23667.55078125
+        "predict_value": 24084.09765625
     },
     {
         "hour": 0,
         "date": "02.07.2021",
         "fact_value": 0,
-        "predict_value": 24016.96875
+        "predict_value": 24195.41015625
     },
     {
         "hour": 0,
         "date": "03.07.2021",
         "fact_value": 0,
-        "predict_value": 23499.00390625
+        "predict_value": 23243.220703125
     },
     {
         "hour": 0,
         "date": "04.07.2021",
         "fact_value": 0,
-        "predict_value": 23772.32421875
+        "predict_value": 23932.927734375
     },
     {
         "hour": 0,
         "date": "05.07.2021",
         "fact_value": 0,
-        "predict_value": 24413.748046875
+        "predict_value": 23914.919921875
     },
     {
         "hour": 0,
         "date": "06.07.2021",
         "fact_value": 0,
-        "predict_value": 23196.87109375
+        "predict_value": 22981.263671875
     },
     {
         "hour": 0,
         "date": "07.07.2021",
         "fact_value": 0,
-        "predict_value": 22644.716796875
+        "predict_value": 22233.552734375
     },
     {
         "hour": 0,
         "date": "08.07.2021",
         "fact_value": 0,
-        "predict_value": 23464.314453125
+        "predict_value": 23798.404296875
     },
     {
         "hour": 0,
         "date": "09.07.2021",
         "fact_value": 0,
-        "predict_value": 23649.025390625
+        "predict_value": 23764.603515625
     },
     {
         "hour": 0,
         "date": "10.07.2021",
         "fact_value": 0,
-        "predict_value": 23723.255859375
+        "predict_value": 24359.552734375
     },
     {
         "hour": 0,
         "date": "11.07.2021",
         "fact_value": 0,
-        "predict_value": 24015.357421875
+        "predict_value": 24799.439453125
     },
     {
         "hour": 0,
         "date": "12.07.2021",
         "fact_value": 0,
-        "predict_value": 24831.4609375
+        "predict_value": 24346.794921875
     },
     {
         "hour": 0,
         "date": "13.07.2021",
         "fact_value": 0,
-        "predict_value": 23076.818359375
+        "predict_value": 23126.357421875
     },
     {
         "hour": 0,
         "date": "14.07.2021",
         "fact_value": 0,
-        "predict_value": 22193.09375
+        "predict_value": 22729.9765625
     },
     {
         "hour": 0,
         "date": "15.07.2021",
         "fact_value": 0,
-        "predict_value": 23041.7109375
+        "predict_value": 23583.6640625
     },
     {
         "hour": 0,
         "date": "16.07.2021",
         "fact_value": 0,
-        "predict_value": 23797.603515625
+        "predict_value": 23940.583984375
     },
     {
         "hour": 0,
         "date": "17.07.2021",
         "fact_value": 0,
-        "predict_value": 24592.234375
+        "predict_value": 24088.953125
     },
     {
         "hour": 0,
         "date": "18.07.2021",
         "fact_value": 0,
-        "predict_value": 24644.7265625
+        "predict_value": 24217.240234375
     },
     {
         "hour": 0,
         "date": "19.07.2021",
         "fact_value": 0,
-        "predict_value": 24240.884765625
+        "predict_value": 24212.59765625
     },
     {
         "hour": 0,
         "date": "20.07.2021",
         "fact_value": 0,
-        "predict_value": 23120.673828125
+        "predict_value": 22774.669921875
     },
     {
         "hour": 0,
         "date": "21.07.2021",
         "fact_value": 0,
-        "predict_value": 22557.806640625
+        "predict_value": 22026.189453125
     },
     {
         "hour": 0,
         "date": "22.07.2021",
         "fact_value": 0,
-        "predict_value": 23085.80859375
+        "predict_value": 23852.0625
     },
     {
         "hour": 0,
         "date": "23.07.2021",
         "fact_value": 0,
-        "predict_value": 24894.72265625
+        "predict_value": 24174.6484375
     },
     {
         "hour": 0,
         "date": "24.07.2021",
         "fact_value": 0,
-        "predict_value": 23851.380859375
+        "predict_value": 23897.517578125
     },
     {
         "hour": 0,
         "date": "25.07.2021",
         "fact_value": 0,
-        "predict_value": 24190.662109375
+        "predict_value": 24222.998046875
     },
     {
         "hour": 0,
         "date": "26.07.2021",
         "fact_value": 0,
-        "predict_value": 24125.462890625
+        "predict_value": 23675.943359375
     },
     {
         "hour": 0,
         "date": "27.07.2021",
         "fact_value": 0,
-        "predict_value": 22593.771484375
+        "predict_value": 23038.041015625
     },
     {
         "hour": 0,
         "date": "28.07.2021",
         "fact_value": 0,
-        "predict_value": 22394.75
+        "predict_value": 22844.138671875
     },
     {
         "hour": 0,
         "date": "29.07.2021",
         "fact_value": 0,
-        "predict_value": 23948.08984375
+        "predict_value": 24159.59375
     },
     {
         "hour": 0,
         "date": "30.07.2021",
         "fact_value": 0,
-        "predict_value": 23755.4765625
+        "predict_value": 24319.28515625
     },
     {
         "hour": 0,
         "date": "31.07.2021",
         "fact_value": 0,
-        "predict_value": 24713.1875
+        "predict_value": 24749.1171875
     },
     {
         "hour": 0,
         "date": "01.08.2021",
         "fact_value": 0,
-        "predict_value": 24980.0390625
+        "predict_value": 24695.107421875
     },
     {
         "hour": 0,
         "date": "02.08.2021",
         "fact_value": 0,
-        "predict_value": 24704.697265625
+        "predict_value": 24631.462890625
     },
     {
         "hour": 0,
         "date": "03.08.2021",
         "fact_value": 0,
-        "predict_value": 23340.25390625
+        "predict_value": 22925.626953125
     },
     {
         "hour": 0,
         "date": "04.08.2021",
         "fact_value": 0,
-        "predict_value": 23361.451171875
+        "predict_value": 22352.75390625
     },
     {
         "hour": 0,
         "date": "05.08.2021",
         "fact_value": 0,
-        "predict_value": 24201.04296875
+        "predict_value": 24191.251953125
     },
     {
         "hour": 0,
         "date": "06.08.2021",
         "fact_value": 0,
-        "predict_value": 23894.279296875
+        "predict_value": 24543.427734375
     },
     {
         "hour": 0,
         "date": "07.08.2021",
         "fact_value": 0,
-        "predict_value": 24358.69140625
+        "predict_value": 24550.380859375
     },
     {
         "hour": 0,
         "date": "08.08.2021",
         "fact_value": 0,
-        "predict_value": 25078.5390625
+        "predict_value": 24846.3515625
     },
     {
         "hour": 0,
         "date": "09.08.2021",
         "fact_value": 0,
-        "predict_value": 24626.53515625
+        "predict_value": 24910.162109375
     },
     {
         "hour": 0,
         "date": "10.08.2021",
         "fact_value": 0,
-        "predict_value": 24015.3515625
+        "predict_value": 23919.90234375
     },
     {
         "hour": 0,
         "date": "11.08.2021",
         "fact_value": 0,
-        "predict_value": 24168.40234375
+        "predict_value": 23065.89453125
     },
     {
         "hour": 0,
         "date": "12.08.2021",
         "fact_value": 0,
-        "predict_value": 23632.904296875
+        "predict_value": 24925.572265625
     },
     {
         "hour": 0,
         "date": "13.08.2021",
         "fact_value": 0,
-        "predict_value": 25531.498046875
+        "predict_value": 24795.78515625
     },
     {
         "hour": 0,
         "date": "14.08.2021",
         "fact_value": 0,
-        "predict_value": 25249.556640625
+        "predict_value": 25053.791015625
     },
     {
         "hour": 0,
         "date": "15.08.2021",
         "fact_value": 0,
-        "predict_value": 24674.203125
+        "predict_value": 24985.19921875
     },
     {
         "hour": 0,
         "date": "16.08.2021",
         "fact_value": 0,
-        "predict_value": 24078.154296875
+        "predict_value": 24847.34765625
     },
     {
         "hour": 0,
         "date": "17.08.2021",
         "fact_value": 0,
-        "predict_value": 23862.33984375
+        "predict_value": 23312.54296875
     },
     {
         "hour": 0,
         "date": "18.08.2021",
         "fact_value": 0,
-        "predict_value": 22772.091796875
+        "predict_value": 22585.720703125
     },
     {
         "hour": 0,
         "date": "19.08.2021",
         "fact_value": 0,
-        "predict_value": 22904.04296875
+        "predict_value": 23743.9296875
     },
     {
         "hour": 0,
         "date": "20.08.2021",
         "fact_value": 0,
-        "predict_value": 25182.958984375
+        "predict_value": 24858.775390625
     },
     {
         "hour": 0,
         "date": "21.08.2021",
         "fact_value": 0,
-        "predict_value": 24344.037109375
+        "predict_value": 24515.498046875
     },
     {
         "hour": 0,
         "date": "22.08.2021",
         "fact_value": 0,
-        "predict_value": 23665.130859375
+        "predict_value": 24394.078125
     },
     {
         "hour": 0,
         "date": "23.08.2021",
         "fact_value": 0,
-        "predict_value": 24965.947265625
+        "predict_value": 24411.947265625
     },
     {
         "hour": 0,
         "date": "24.08.2021",
         "fact_value": 0,
-        "predict_value": 24152.896484375
+        "predict_value": 23237.291015625
     },
     {
         "hour": 0,
         "date": "25.08.2021",
         "fact_value": 0,
-        "predict_value": 22802.015625
+        "predict_value": 22363.39453125
     },
     {
         "hour": 0,
         "date": "26.08.2021",
         "fact_value": 0,
-        "predict_value": 24214.5078125
+        "predict_value": 23992.654296875
     },
     {
         "hour": 0,
         "date": "27.08.2021",
         "fact_value": 0,
-        "predict_value": 24023.2265625
+        "predict_value": 24344.41796875
     },
     {
         "hour": 0,
         "date": "28.08.2021",
         "fact_value": 0,
-        "predict_value": 24104.79296875
+        "predict_value": 24941.958984375
     },
     {
         "hour": 0,
         "date": "29.08.2021",
         "fact_value": 0,
-        "predict_value": 24665.67578125
+        "predict_value": 24803.47265625
     },
     {
         "hour": 0,
         "date": "30.08.2021",
         "fact_value": 0,
-        "predict_value": 24474.11328125
+        "predict_value": 24763.732421875
     },
     {
         "hour": 0,
         "date": "31.08.2021",
         "fact_value": 0,
-        "predict_value": 23333.572265625
+        "predict_value": 23179.45703125
     },
     {
         "hour": 0,
         "date": "01.09.2021",
         "fact_value": 0,
-        "predict_value": 22523.669921875
+        "predict_value": 22514.08984375
     },
     {
         "hour": 0,
         "date": "02.09.2021",
         "fact_value": 0,
-        "predict_value": 23364.896484375
+        "predict_value": 23841.287109375
     },
     {
         "hour": 0,
         "date": "03.09.2021",
         "fact_value": 0,
-        "predict_value": 24186.78125
+        "predict_value": 24476.13671875
     },
     {
         "hour": 0,
         "date": "04.09.2021",
         "fact_value": 0,
-        "predict_value": 24652.25390625
+        "predict_value": 25347.3671875
     },
     {
         "hour": 0,
         "date": "05.09.2021",
         "fact_value": 0,
-        "predict_value": 25102.533203125
+        "predict_value": 25290.025390625
     },
     {
         "hour": 0,
         "date": "06.09.2021",
         "fact_value": 0,
-        "predict_value": 24821.98046875
+        "predict_value": 25461.2421875
     },
     {
         "hour": 0,
         "date": "07.09.2021",
         "fact_value": 0,
-        "predict_value": 24483.50390625
+        "predict_value": 24084.07421875
     },
     {
         "hour": 0,
         "date": "08.09.2021",
         "fact_value": 0,
-        "predict_value": 23846.216796875
+        "predict_value": 23927.8046875
     },
     {
         "hour": 0,
         "date": "09.09.2021",
         "fact_value": 0,
-        "predict_value": 23874.958984375
+        "predict_value": 24606.783203125
     },
     {
         "hour": 0,
         "date": "10.09.2021",
         "fact_value": 0,
-        "predict_value": 25609.73046875
+        "predict_value": 25075.13671875
     },
     {
         "hour": 0,
         "date": "11.09.2021",
         "fact_value": 0,
-        "predict_value": 25576.734375
+        "predict_value": 25564.22265625
     },
     {
         "hour": 0,
         "date": "12.09.2021",
         "fact_value": 0,
-        "predict_value": 25236.5859375
+        "predict_value": 25724.953125
     },
     {
         "hour": 0,
         "date": "13.09.2021",
         "fact_value": 0,
-        "predict_value": 25245.3515625
+        "predict_value": 25878.03515625
     },
     {
         "hour": 0,
         "date": "14.09.2021",
         "fact_value": 0,
-        "predict_value": 24230.3125
+        "predict_value": 24879.080078125
     },
     {
         "hour": 0,
         "date": "15.09.2021",
         "fact_value": 0,
-        "predict_value": 22827.7578125
+        "predict_value": 24087.98046875
     },
     {
         "hour": 0,
         "date": "16.09.2021",
         "fact_value": 0,
-        "predict_value": 24858.060546875
+        "predict_value": 25427.09765625
     },
     {
         "hour": 0,
         "date": "17.09.2021",
         "fact_value": 0,
-        "predict_value": 25954.55859375
+        "predict_value": 25652.83203125
     },
     {
         "hour": 0,
         "date": "18.09.2021",
         "fact_value": 0,
-        "predict_value": 25709.62109375
+        "predict_value": 25614.697265625
     },
     {
         "hour": 0,
         "date": "19.09.2021",
         "fact_value": 0,
-        "predict_value": 26015.884765625
+        "predict_value": 26094.572265625
     },
     {
         "hour": 0,
         "date": "20.09.2021",
         "fact_value": 0,
-        "predict_value": 24873.880859375
+        "predict_value": 25514.48828125
     },
     {
         "hour": 0,
         "date": "21.09.2021",
         "fact_value": 0,
-        "predict_value": 24882.33984375
+        "predict_value": 24307.375
     },
     {
         "hour": 0,
         "date": "22.09.2021",
         "fact_value": 0,
-        "predict_value": 24418.78515625
+        "predict_value": 23483.73828125
     },
     {
         "hour": 0,
         "date": "23.09.2021",
         "fact_value": 0,
-        "predict_value": 23982.97265625
+        "predict_value": 24981.48046875
     },
     {
         "hour": 0,
         "date": "24.09.2021",
         "fact_value": 0,
-        "predict_value": 24645.7734375
+        "predict_value": 25364.931640625
     },
     {
         "hour": 0,
         "date": "25.09.2021",
         "fact_value": 0,
-        "predict_value": 25141.015625
+        "predict_value": 25993.369140625
     },
     {
         "hour": 0,
         "date": "26.09.2021",
         "fact_value": 0,
-        "predict_value": 25812.03125
+        "predict_value": 26146.587890625
     },
     {
         "hour": 0,
         "date": "27.09.2021",
         "fact_value": 0,
-        "predict_value": 24809.79296875
+        "predict_value": 25781.623046875
     },
     {
         "hour": 0,
         "date": "28.09.2021",
         "fact_value": 0,
-        "predict_value": 25086.6953125
+        "predict_value": 24373.466796875
     },
     {
         "hour": 0,
         "date": "29.09.2021",
         "fact_value": 0,
-        "predict_value": 24533.689453125
+        "predict_value": 23516.84375
     },
     {
         "hour": 0,
         "date": "30.09.2021",
         "fact_value": 0,
-        "predict_value": 25997.6796875
+        "predict_value": 25622.43359375
     },
     {
         "hour": 0,
         "date": "01.10.2021",
         "fact_value": 0,
-        "predict_value": 26527.2578125
+        "predict_value": 26155.453125
     },
     {
         "hour": 0,
         "date": "02.10.2021",
         "fact_value": 0,
-        "predict_value": 27266.86328125
+        "predict_value": 26622.638671875
     },
     {
         "hour": 0,
         "date": "03.10.2021",
         "fact_value": 0,
-        "predict_value": 27266.53125
+        "predict_value": 26693.98046875
     },
     {
         "hour": 0,
         "date": "04.10.2021",
         "fact_value": 0,
-        "predict_value": 27424.94140625
+        "predict_value": 27135.44140625
     },
     {
         "hour": 0,
         "date": "05.10.2021",
         "fact_value": 0,
-        "predict_value": 27072.087890625
+        "predict_value": 25457.0390625
     },
     {
         "hour": 0,
         "date": "06.10.2021",
         "fact_value": 0,
-        "predict_value": 26699.1640625
+        "predict_value": 25422.25
     },
     {
         "hour": 0,
         "date": "07.10.2021",
         "fact_value": 0,
-        "predict_value": 27040.841796875
+        "predict_value": 27166.18359375
     },
     {
         "hour": 0,
         "date": "08.10.2021",
         "fact_value": 0,
-        "predict_value": 28367.84375
+        "predict_value": 27866.359375
     },
     {
         "hour": 0,
         "date": "09.10.2021",
         "fact_value": 0,
-        "predict_value": 28169.109375
+        "predict_value": 29106.537109375
     },
     {
         "hour": 0,
         "date": "10.10.2021",
         "fact_value": 0,
-        "predict_value": 29509.82421875
+        "predict_value": 29445.267578125
     },
     {
         "hour": 0,
         "date": "11.10.2021",
         "fact_value": 0,
-        "predict_value": 29494.94140625
+        "predict_value": 30034.41015625
     },
     {
         "hour": 0,
         "date": "12.10.2021",
         "fact_value": 0,
-        "predict_value": 28725.984375
+        "predict_value": 28616.10546875
     },
     {
         "hour": 0,
         "date": "13.10.2021",
         "fact_value": 0,
-        "predict_value": 26935.72265625
+        "predict_value": 27474.1953125
     },
     {
         "hour": 0,
         "date": "14.10.2021",
         "fact_value": 0,
-        "predict_value": 27989.169921875
+        "predict_value": 28978.83984375
     },
     {
         "hour": 0,
         "date": "15.10.2021",
         "fact_value": 0,
-        "predict_value": 29353.5234375
+        "predict_value": 29074.353515625
     },
     {
         "hour": 0,
         "date": "16.10.2021",
         "fact_value": 0,
-        "predict_value": 28844.951171875
+        "predict_value": 29410.24609375
     },
     {
         "hour": 0,
         "date": "17.10.2021",
         "fact_value": 0,
-        "predict_value": 29468.970703125
+        "predict_value": 29286.361328125
     },
     {
         "hour": 0,
         "date": "18.10.2021",
         "fact_value": 0,
-        "predict_value": 29641.23046875
+        "predict_value": 29347.24609375
     },
     {
         "hour": 0,
         "date": "19.10.2021",
         "fact_value": 0,
-        "predict_value": 27602.859375
+        "predict_value": 27612.97265625
     },
     {
         "hour": 0,
         "date": "20.10.2021",
         "fact_value": 0,
-        "predict_value": 27171.84765625
+        "predict_value": 27557.29296875
     },
     {
         "hour": 0,
         "date": "21.10.2021",
         "fact_value": 0,
-        "predict_value": 28552.876953125
+        "predict_value": 29002.123046875
     },
     {
         "hour": 0,
         "date": "22.10.2021",
         "fact_value": 0,
-        "predict_value": 30817.94921875
+        "predict_value": 29632.130859375
     },
     {
         "hour": 0,
         "date": "23.10.2021",
         "fact_value": 0,
-        "predict_value": 30097.599609375
+        "predict_value": 30078.869140625
     },
     {
         "hour": 0,
         "date": "24.10.2021",
         "fact_value": 0,
-        "predict_value": 30684.037109375
+        "predict_value": 30469.53125
     },
     {
         "hour": 0,
         "date": "25.10.2021",
         "fact_value": 0,
-        "predict_value": 30774.734375
+        "predict_value": 30508.318359375
     },
     {
         "hour": 0,
         "date": "26.10.2021",
         "fact_value": 0,
-        "predict_value": 30425.69921875
+        "predict_value": 29054.2265625
     },
     {
         "hour": 0,
         "date": "27.10.2021",
         "fact_value": 0,
-        "predict_value": 28192.8203125
+        "predict_value": 28034.599609375
     },
     {
         "hour": 0,
         "date": "28.10.2021",
         "fact_value": 0,
-        "predict_value": 30211.0859375
+        "predict_value": 29794.193359375
     },
     {
         "hour": 0,
         "date": "29.10.2021",
         "fact_value": 0,
-        "predict_value": 29295.03125
+        "predict_value": 29859.0546875
     },
     {
         "hour": 0,
         "date": "30.10.2021",
         "fact_value": 0,
-        "predict_value": 29146.376953125
+        "predict_value": 30137.927734375
     },
     {
         "hour": 0,
         "date": "31.10.2021",
         "fact_value": 0,
-        "predict_value": 29952.6484375
+        "predict_value": 29994.291015625
     },
     {
         "hour": 0,
         "date": "01.11.2021",
         "fact_value": 0,
-        "predict_value": 29762.701171875
+        "predict_value": 30175.064453125
     },
     {
         "hour": 0,
         "date": "02.11.2021",
         "fact_value": 0,
-        "predict_value": 29141.369140625
+        "predict_value": 28975.2109375
     },
     {
         "hour": 0,
         "date": "03.11.2021",
         "fact_value": 0,
-        "predict_value": 28376.5234375
+        "predict_value": 28214.306640625
     },
     {
         "hour": 0,
         "date": "04.11.2021",
         "fact_value": 0,
-        "predict_value": 29592.796875
+        "predict_value": 29614.212890625
     },
     {
         "hour": 0,
         "date": "05.11.2021",
         "fact_value": 0,
-        "predict_value": 29646.64453125
+        "predict_value": 28825.650390625
     },
     {
         "hour": 0,
         "date": "06.11.2021",
         "fact_value": 0,
-        "predict_value": 28081.46875
+        "predict_value": 27719.837890625
     },
     {
         "hour": 0,
         "date": "07.11.2021",
         "fact_value": 0,
-        "predict_value": 29480.015625
+        "predict_value": 29919.3515625
     },
     {
         "hour": 0,
         "date": "08.11.2021",
         "fact_value": 0,
-        "predict_value": 29239.28125
+        "predict_value": 30309.388671875
     },
     {
         "hour": 0,
         "date": "09.11.2021",
         "fact_value": 0,
-        "predict_value": 29206.57421875
+        "predict_value": 29687.04296875
     },
     {
         "hour": 0,
         "date": "10.11.2021",
         "fact_value": 0,
-        "predict_value": 27461.939453125
+        "predict_value": 28494.693359375
     },
     {
         "hour": 0,
         "date": "11.11.2021",
         "fact_value": 0,
-        "predict_value": 29346.875
+        "predict_value": 30238.35546875
     },
     {
         "hour": 0,
         "date": "12.11.2021",
         "fact_value": 0,
-        "predict_value": 30564.91015625
+        "predict_value": 30282.044921875
     },
     {
         "hour": 0,
         "date": "13.11.2021",
         "fact_value": 0,
-        "predict_value": 30767.935546875
+        "predict_value": 30565.791015625
     },
     {
         "hour": 0,
         "date": "14.11.2021",
         "fact_value": 0,
-        "predict_value": 30271.419921875
+        "predict_value": 30821.287109375
     },
     {
         "hour": 0,
         "date": "15.11.2021",
         "fact_value": 0,
-        "predict_value": 29935.392578125
+        "predict_value": 30489.11328125
     },
     {
         "hour": 0,
         "date": "16.11.2021",
         "fact_value": 0,
-        "predict_value": 30116.591796875
+        "predict_value": 29184.455078125
     },
     {
         "hour": 0,
         "date": "17.11.2021",
         "fact_value": 0,
-        "predict_value": 29812.701171875
+        "predict_value": 29393.044921875
     },
     {
         "hour": 0,
         "date": "18.11.2021",
         "fact_value": 0,
-        "predict_value": 30531.2578125
+        "predict_value": 30990.44921875
     },
     {
         "hour": 0,
         "date": "19.11.2021",
         "fact_value": 0,
-        "predict_value": 31986.705078125
+        "predict_value": 31509.5234375
     },
     {
         "hour": 0,
         "date": "20.11.2021",
         "fact_value": 0,
-        "predict_value": 31315.791015625
+        "predict_value": 31307.69921875
     },
     {
         "hour": 0,
         "date": "21.11.2021",
         "fact_value": 0,
-        "predict_value": 32335.0625
+        "predict_value": 31406.08984375
     },
     {
         "hour": 0,
         "date": "22.11.2021",
         "fact_value": 0,
-        "predict_value": 32783.9140625
+        "predict_value": 31333.17578125
     },
     {
         "hour": 0,
         "date": "23.11.2021",
         "fact_value": 0,
-        "predict_value": 30290.478515625
+        "predict_value": 29901.685546875
     },
     {
         "hour": 0,
         "date": "24.11.2021",
         "fact_value": 0,
-        "predict_value": 30354.94921875
+        "predict_value": 29232.6796875
     },
     {
         "hour": 0,
         "date": "25.11.2021",
         "fact_value": 0,
-        "predict_value": 30908.265625
+        "predict_value": 30987.009765625
     },
     {
         "hour": 0,
         "date": "26.11.2021",
         "fact_value": 0,
-        "predict_value": 31722.251953125
+        "predict_value": 31863.890625
     },
     {
         "hour": 0,
         "date": "27.11.2021",
         "fact_value": 0,
-        "predict_value": 31850.146484375
+        "predict_value": 31366.529296875
     },
     {
         "hour": 0,
         "date": "28.11.2021",
         "fact_value": 0,
-        "predict_value": 32971.88671875
+        "predict_value": 31736.5546875
     },
     {
         "hour": 0,
         "date": "29.11.2021",
         "fact_value": 0,
-        "predict_value": 33224.44140625
+        "predict_value": 32309.525390625
     },
     {
         "hour": 0,
         "date": "30.11.2021",
         "fact_value": 0,
-        "predict_value": 31518.912109375
+        "predict_value": 30527.001953125
     },
     {
         "hour": 0,
         "date": "01.12.2021",
         "fact_value": 0,
-        "predict_value": 30392.65234375
+        "predict_value": 30297.744140625
     },
     {
         "hour": 0,
         "date": "02.12.2021",
         "fact_value": 0,
-        "predict_value": 31178.677734375
+        "predict_value": 31820.1875
     },
     {
         "hour": 0,
         "date": "03.12.2021",
         "fact_value": 0,
-        "predict_value": 32876
+        "predict_value": 31547.333984375
     },
     {
         "hour": 0,
         "date": "04.12.2021",
         "fact_value": 0,
-        "predict_value": 32624.609375
+        "predict_value": 32032.810546875
     },
     {
         "hour": 0,
         "date": "05.12.2021",
         "fact_value": 0,
-        "predict_value": 32960.8359375
+        "predict_value": 31981.8671875
     },
     {
         "hour": 0,
         "date": "06.12.2021",
         "fact_value": 0,
-        "predict_value": 33027.28515625
+        "predict_value": 32121.017578125
     },
     {
         "hour": 0,
         "date": "07.12.2021",
         "fact_value": 0,
-        "predict_value": 31675.10546875
+        "predict_value": 30636.474609375
     },
     {
         "hour": 0,
         "date": "08.12.2021",
         "fact_value": 0,
-        "predict_value": 30745.484375
+        "predict_value": 29501.88671875
     },
     {
         "hour": 0,
         "date": "09.12.2021",
         "fact_value": 0,
-        "predict_value": 30303.57421875
+        "predict_value": 30294.32421875
     },
     {
         "hour": 0,
         "date": "10.12.2021",
         "fact_value": 0,
-        "predict_value": 32106.765625
+        "predict_value": 31062.95703125
     },
     {
         "hour": 0,
         "date": "11.12.2021",
         "fact_value": 0,
-        "predict_value": 31584.08203125
+        "predict_value": 31525.490234375
     },
     {
         "hour": 0,
         "date": "12.12.2021",
         "fact_value": 0,
-        "predict_value": 31589.8359375
+        "predict_value": 31603.07421875
     },
     {
         "hour": 0,
         "date": "13.12.2021",
         "fact_value": 0,
-        "predict_value": 31423.009765625
+        "predict_value": 31939.66796875
     },
     {
         "hour": 0,
         "date": "14.12.2021",
         "fact_value": 0,
-        "predict_value": 31048.751953125
+        "predict_value": 30889.67578125
     },
     {
         "hour": 0,
         "date": "15.12.2021",
         "fact_value": 0,
-        "predict_value": 29874.0859375
+        "predict_value": 29402.21875
     },
     {
         "hour": 0,
         "date": "16.12.2021",
         "fact_value": 0,
-        "predict_value": 30541.5625
+        "predict_value": 31196.080078125
     },
     {
         "hour": 0,
         "date": "17.12.2021",
         "fact_value": 0,
-        "predict_value": 32119.96484375
+        "predict_value": 31241.40625
     },
     {
         "hour": 0,
         "date": "18.12.2021",
         "fact_value": 0,
-        "predict_value": 32666.876953125
+        "predict_value": 31879.87890625
     },
     {
         "hour": 0,
         "date": "19.12.2021",
         "fact_value": 0,
-        "predict_value": 32673.31640625
+        "predict_value": 32474.34765625
     },
     {
         "hour": 0,
         "date": "20.12.2021",
         "fact_value": 0,
-        "predict_value": 33106.51953125
+        "predict_value": 32373.6328125
     },
     {
         "hour": 0,
         "date": "21.12.2021",
         "fact_value": 0,
-        "predict_value": 30689.33203125
+        "predict_value": 30669.73046875
     },
     {
         "hour": 0,
         "date": "22.12.2021",
         "fact_value": 0,
-        "predict_value": 29977.474609375
+        "predict_value": 29143.57421875
     },
     {
         "hour": 0,
         "date": "23.12.2021",
         "fact_value": 0,
-        "predict_value": 29440.138671875
+        "predict_value": 29994.0625
     },
     {
         "hour": 0,
         "date": "24.12.2021",
         "fact_value": 0,
-        "predict_value": 31552.45703125
+        "predict_value": 30736.103515625
     },
     {
         "hour": 0,
         "date": "25.12.2021",
         "fact_value": 0,
-        "predict_value": 31337.458984375
+        "predict_value": 30582.787109375
     },
     {
         "hour": 0,
         "date": "26.12.2021",
         "fact_value": 0,
-        "predict_value": 30503.22265625
+        "predict_value": 30431.375
     },
     {
         "hour": 0,
         "date": "27.12.2021",
         "fact_value": 0,
-        "predict_value": 32105.720703125
+        "predict_value": 30752.8203125
     },
     {
         "hour": 0,
         "date": "28.12.2021",
         "fact_value": 0,
-        "predict_value": 31074.44140625
+        "predict_value": 29756.248046875
     },
     {
         "hour": 0,
         "date": "29.12.2021",
         "fact_value": 0,
-        "predict_value": 30646.646484375
+        "predict_value": 29421.82421875
     },
     {
         "hour": 0,
         "date": "30.12.2021",
         "fact_value": 0,
-        "predict_value": 31565.947265625
+        "predict_value": 31585.5078125
     },
     {
         "hour": 0,
         "date": "31.12.2021",
         "fact_value": 0,
-        "predict_value": 31811.447265625
+        "predict_value": 31946.751953125
     },
     {
         "hour": 0,
         "date": "01.01.2022",
         "fact_value": 0,
-        "predict_value": 32232.220703125
+        "predict_value": 31872.15625
     },
     {
         "hour": 0,
         "date": "02.01.2022",
         "fact_value": 0,
-        "predict_value": 30774.7734375
+        "predict_value": 30460.001953125
     },
     {
         "hour": 0,
         "date": "03.01.2022",
         "fact_value": 0,
-        "predict_value": 28499.22265625
+        "predict_value": 27567.3515625
     },
     {
         "hour": 0,
         "date": "04.01.2022",
         "fact_value": 0,
-        "predict_value": 28913.33203125
+        "predict_value": 28837.28515625
     },
     {
         "hour": 0,
         "date": "05.01.2022",
         "fact_value": 0,
-        "predict_value": 29257.236328125
+        "predict_value": 29764.97265625
     },
     {
         "hour": 0,
         "date": "06.01.2022",
         "fact_value": 0,
-        "predict_value": 29433.85546875
+        "predict_value": 30487.923828125
     },
     {
         "hour": 0,
         "date": "07.01.2022",
         "fact_value": 0,
-        "predict_value": 29959.265625
+        "predict_value": 31021.69140625
     },
     {
         "hour": 0,
         "date": "08.01.2022",
         "fact_value": 0,
-        "predict_value": 30361.841796875
+        "predict_value": 30944.125
     },
     {
         "hour": 0,
         "date": "09.01.2022",
         "fact_value": 0,
-        "predict_value": 30912.16015625
+        "predict_value": 30172.55078125
     },
     {
         "hour": 0,
         "date": "10.01.2022",
         "fact_value": 0,
-        "predict_value": 30963.302734375
+        "predict_value": 30371.96875
     },
     {
         "hour": 0,
         "date": "11.01.2022",
         "fact_value": 0,
-        "predict_value": 31487.41796875
+        "predict_value": 30926.599609375
     },
     {
         "hour": 0,
         "date": "12.01.2022",
         "fact_value": 0,
-        "predict_value": 29762.65625
+        "predict_value": 31126.794921875
     },
     {
         "hour": 0,
         "date": "13.01.2022",
         "fact_value": 0,
-        "predict_value": 31630.599609375
+        "predict_value": 33338.97265625
     },
     {
         "hour": 0,
         "date": "14.01.2022",
         "fact_value": 0,
-        "predict_value": 32808.5859375
+        "predict_value": 33598.5078125
     },
     {
         "hour": 0,
         "date": "15.01.2022",
         "fact_value": 0,
-        "predict_value": 32455.951171875
+        "predict_value": 32802.9140625
     },
     {
         "hour": 0,
         "date": "16.01.2022",
         "fact_value": 0,
-        "predict_value": 31318.62890625
+        "predict_value": 32318.4609375
     },
     {
         "hour": 0,
         "date": "17.01.2022",
         "fact_value": 0,
-        "predict_value": 31993.419921875
+        "predict_value": 32633.666015625
     },
     {
         "hour": 0,
         "date": "18.01.2022",
         "fact_value": 0,
-        "predict_value": 30908.728515625
+        "predict_value": 32332.798828125
     },
     {
         "hour": 0,
         "date": "19.01.2022",
         "fact_value": 0,
-        "predict_value": 31274.046875
+        "predict_value": 30577.119140625
     },
     {
         "hour": 0,
         "date": "20.01.2022",
         "fact_value": 0,
-        "predict_value": 31685.25
+        "predict_value": 32608.298828125
     },
     {
         "hour": 0,
         "date": "21.01.2022",
         "fact_value": 0,
-        "predict_value": 32700.140625
+        "predict_value": 32668.49609375
     },
     {
         "hour": 0,
         "date": "22.01.2022",
         "fact_value": 0,
-        "predict_value": 31899.42578125
+        "predict_value": 33249.40625
     },
     {
         "hour": 0,
         "date": "23.01.2022",
         "fact_value": 0,
-        "predict_value": 33840.38671875
+        "predict_value": 33764.24609375
     },
     {
         "hour": 0,
         "date": "24.01.2022",
         "fact_value": 0,
-        "predict_value": 33556.44140625
+        "predict_value": 33852.65234375
     },
     {
         "hour": 0,
         "date": "25.01.2022",
         "fact_value": 0,
-        "predict_value": 32567.548828125
+        "predict_value": 32347.7734375
     },
     {
         "hour": 0,
         "date": "26.01.2022",
         "fact_value": 0,
-        "predict_value": 31868.9375
+        "predict_value": 31887.935546875
     },
     {
         "hour": 0,
         "date": "27.01.2022",
         "fact_value": 0,
-        "predict_value": 32445.693359375
+        "predict_value": 33502.6328125
     },
     {
         "hour": 0,
         "date": "28.01.2022",
         "fact_value": 0,
-        "predict_value": 33073.20703125
+        "predict_value": 33833.04296875
     },
     {
         "hour": 0,
         "date": "29.01.2022",
         "fact_value": 0,
-        "predict_value": 34264.98046875
+        "predict_value": 33392.50390625
     },
     {
         "hour": 0,
         "date": "30.01.2022",
         "fact_value": 0,
-        "predict_value": 32392.029296875
+        "predict_value": 32100.361328125
     },
     {
         "hour": 0,
         "date": "31.01.2022",
         "fact_value": 0,
-        "predict_value": 31984.79296875
+        "predict_value": 31567.5390625
     },
     {
         "hour": 0,
         "date": "01.02.2022",
         "fact_value": 0,
-        "predict_value": 31111.625
+        "predict_value": 29973.861328125
     },
     {
         "hour": 0,
         "date": "02.02.2022",
         "fact_value": 0,
-        "predict_value": 30152.009765625
+        "predict_value": 29302.470703125
     },
     {
         "hour": 0,
         "date": "03.02.2022",
         "fact_value": 0,
-        "predict_value": 30534.728515625
+        "predict_value": 30321.52734375
     },
     {
         "hour": 0,
         "date": "04.02.2022",
         "fact_value": 0,
-        "predict_value": 30518.15625
+        "predict_value": 31293.15625
     },
     {
         "hour": 0,
         "date": "05.02.2022",
         "fact_value": 0,
-        "predict_value": 32451.6328125
+        "predict_value": 31264.466796875
     },
     {
         "hour": 0,
         "date": "06.02.2022",
         "fact_value": 0,
-        "predict_value": 31813.734375
+        "predict_value": 30506.3125
     },
     {
         "hour": 0,
         "date": "07.02.2022",
         "fact_value": 0,
-        "predict_value": 31316.474609375
+        "predict_value": 31455.9296875
     },
     {
         "hour": 0,
         "date": "08.02.2022",
         "fact_value": 0,
-        "predict_value": 29699.7421875
+        "predict_value": 30603.205078125
     },
     {
         "hour": 0,
         "date": "09.02.2022",
         "fact_value": 0,
-        "predict_value": 30165.380859375
+        "predict_value": 29679.87890625
     },
     {
         "hour": 0,
         "date": "10.02.2022",
         "fact_value": 0,
-        "predict_value": 30279.783203125
+        "predict_value": 30945.4296875
     },
     {
         "hour": 0,
         "date": "11.02.2022",
         "fact_value": 0,
-        "predict_value": 31711.583984375
+        "predict_value": 31127.92578125
     },
     {
         "hour": 0,
         "date": "12.02.2022",
         "fact_value": 0,
-        "predict_value": 32026.2578125
+        "predict_value": 31656.869140625
     },
     {
         "hour": 0,
         "date": "13.02.2022",
         "fact_value": 0,
-        "predict_value": 30969.556640625
+        "predict_value": 31368.189453125
     },
     {
         "hour": 0,
         "date": "14.02.2022",
         "fact_value": 0,
-        "predict_value": 31688.412109375
+        "predict_value": 31520.947265625
     },
     {
         "hour": 0,
         "date": "15.02.2022",
         "fact_value": 0,
-        "predict_value": 30388.158203125
+        "predict_value": 29977.80859375
     },
     {
         "hour": 0,
         "date": "16.02.2022",
         "fact_value": 0,
-        "predict_value": 29795.861328125
+        "predict_value": 29355.10546875
     },
     {
         "hour": 0,
         "date": "17.02.2022",
         "fact_value": 0,
-        "predict_value": 29255.65234375
+        "predict_value": 30620.671875
     },
     {
         "hour": 0,
         "date": "18.02.2022",
         "fact_value": 0,
-        "predict_value": 32501.8984375
+        "predict_value": 31669.0078125
     },
     {
         "hour": 0,
         "date": "19.02.2022",
         "fact_value": 0,
-        "predict_value": 31258.115234375
+        "predict_value": 31452.505859375
     },
     {
         "hour": 0,
         "date": "20.02.2022",
         "fact_value": 0,
-        "predict_value": 31521.36328125
+        "predict_value": 31602.23046875
     },
     {
         "hour": 0,
         "date": "21.02.2022",
         "fact_value": 0,
-        "predict_value": 31904.494140625
+        "predict_value": 31580.298828125
     },
     {
         "hour": 0,
         "date": "22.02.2022",
         "fact_value": 0,
-        "predict_value": 30729.947265625
+        "predict_value": 30754.162109375
     },
     {
         "hour": 0,
         "date": "23.02.2022",
         "fact_value": 0,
-        "predict_value": 28963.8203125
+        "predict_value": 29603.923828125
     },
     {
         "hour": 0,
         "date": "24.02.2022",
         "fact_value": 0,
-        "predict_value": 28091.046875
+        "predict_value": 29795.208984375
     },
     {
         "hour": 0,
         "date": "25.02.2022",
         "fact_value": 0,
-        "predict_value": 28796.818359375
+        "predict_value": 28716.150390625
     },
     {
         "hour": 0,
         "date": "26.02.2022",
         "fact_value": 0,
-        "predict_value": 30699.099609375
+        "predict_value": 30653.6953125
     },
     {
         "hour": 0,
         "date": "27.02.2022",
         "fact_value": 0,
-        "predict_value": 31227.501953125
+        "predict_value": 30662.359375
     },
     {
         "hour": 0,
         "date": "28.02.2022",
         "fact_value": 0,
-        "predict_value": 31039.390625
+        "predict_value": 30292.919921875
     },
     {
         "hour": 0,
         "date": "01.03.2022",
         "fact_value": 0,
-        "predict_value": 29978.2734375
+        "predict_value": 29258.802734375
     },
     {
         "hour": 0,
         "date": "02.03.2022",
         "fact_value": 0,
-        "predict_value": 28700.40625
+        "predict_value": 28851.240234375
     },
     {
         "hour": 0,
         "date": "03.03.2022",
         "fact_value": 0,
-        "predict_value": 29214.0078125
+        "predict_value": 29957.40234375
     },
     {
         "hour": 0,
         "date": "04.03.2022",
         "fact_value": 0,
-        "predict_value": 30552.986328125
+        "predict_value": 30662.208984375
     },
     {
         "hour": 0,
         "date": "05.03.2022",
         "fact_value": 0,
-        "predict_value": 30858.15625
+        "predict_value": 30989.521484375
     },
     {
         "hour": 0,
         "date": "06.03.2022",
         "fact_value": 0,
-        "predict_value": 31221.19921875
+        "predict_value": 30862.26953125
     },
     {
         "hour": 0,
         "date": "07.03.2022",
         "fact_value": 0,
-        "predict_value": 30470.818359375
+        "predict_value": 30645.33203125
     },
     {
         "hour": 0,
         "date": "08.03.2022",
         "fact_value": 0,
-        "predict_value": 29743.9921875
+        "predict_value": 29448.4921875
     },
     {
         "hour": 0,
         "date": "09.03.2022",
         "fact_value": 0,
-        "predict_value": 29435.890625
+        "predict_value": 28546.400390625
     },
     {
         "hour": 0,
         "date": "10.03.2022",
         "fact_value": 0,
-        "predict_value": 28473.82421875
+        "predict_value": 27875.53515625
     },
     {
         "hour": 0,
         "date": "11.03.2022",
         "fact_value": 0,
-        "predict_value": 27176.28515625
+        "predict_value": 27222.578125
     },
     {
         "hour": 0,
         "date": "12.03.2022",
         "fact_value": 0,
-        "predict_value": 28727.912109375
+        "predict_value": 29429.80078125
     },
     {
         "hour": 0,
         "date": "13.03.2022",
         "fact_value": 0,
-        "predict_value": 29117.6875
+        "predict_value": 28803.353515625
     },
     {
         "hour": 0,
         "date": "14.03.2022",
         "fact_value": 0,
-        "predict_value": 29391.8671875
+        "predict_value": 29217.564453125
     },
     {
         "hour": 0,
         "date": "15.03.2022",
         "fact_value": 0,
-        "predict_value": 28772.267578125
+        "predict_value": 28442.013671875
     },
     {
         "hour": 0,
         "date": "16.03.2022",
         "fact_value": 0,
-        "predict_value": 28366.80078125
+        "predict_value": 27648.05859375
     },
     {
         "hour": 0,
         "date": "17.03.2022",
         "fact_value": 0,
-        "predict_value": 28270.6015625
+        "predict_value": 29344.6953125
     },
     {
         "hour": 0,
         "date": "18.03.2022",
         "fact_value": 0,
-        "predict_value": 29176.23828125
+        "predict_value": 29488.185546875
     },
     {
         "hour": 0,
         "date": "19.03.2022",
         "fact_value": 0,
-        "predict_value": 30053.265625
+        "predict_value": 30149.09765625
     },
     {
         "hour": 0,
         "date": "20.03.2022",
         "fact_value": 0,
-        "predict_value": 28414.509765625
+        "predict_value": 29657.833984375
     },
     {
         "hour": 0,
         "date": "21.03.2022",
         "fact_value": 0,
-        "predict_value": 29773.130859375
+        "predict_value": 29637.521484375
     },
     {
         "hour": 0,
         "date": "22.03.2022",
         "fact_value": 0,
-        "predict_value": 28759.27734375
+        "predict_value": 29319.578125
     },
     {
         "hour": 0,
         "date": "23.03.2022",
         "fact_value": 0,
-        "predict_value": 28793.03515625
+        "predict_value": 28815.724609375
     },
     {
         "hour": 0,
         "date": "24.03.2022",
         "fact_value": 0,
-        "predict_value": 29413.1640625
+        "predict_value": 29753.90234375
     },
     {
         "hour": 0,
         "date": "25.03.2022",
         "fact_value": 0,
-        "predict_value": 30977.138671875
+        "predict_value": 30340.529296875
     },
     {
         "hour": 0,
         "date": "26.03.2022",
         "fact_value": 0,
-        "predict_value": 29798.74609375
+        "predict_value": 30888.22265625
     },
     {
         "hour": 0,
         "date": "27.03.2022",
         "fact_value": 0,
-        "predict_value": 29810.8984375
+        "predict_value": 30413.6328125
     },
     {
         "hour": 0,
         "date": "28.03.2022",
         "fact_value": 0,
-        "predict_value": 30343.740234375
+        "predict_value": 30571.2109375
     },
     {
         "hour": 0,
         "date": "29.03.2022",
         "fact_value": 0,
-        "predict_value": 30064.82421875
+        "predict_value": 28417.322265625
     },
     {
         "hour": 0,
         "date": "30.03.2022",
         "fact_value": 0,
-        "predict_value": 27683.896484375
+        "predict_value": 27530.3203125
     },
     {
         "hour": 0,
         "date": "31.03.2022",
         "fact_value": 0,
-        "predict_value": 28384.939453125
+        "predict_value": 28643.75390625
     },
     {
         "hour": 0,
         "date": "01.04.2022",
         "fact_value": 0,
-        "predict_value": 28870.71484375
+        "predict_value": 29089.1015625
     },
     {
         "hour": 0,
         "date": "02.04.2022",
         "fact_value": 0,
-        "predict_value": 29329.7109375
+        "predict_value": 29079.15625
     },
     {
         "hour": 0,
         "date": "03.04.2022",
         "fact_value": 0,
-        "predict_value": 29151.86328125
+        "predict_value": 29543.427734375
     },
     {
         "hour": 0,
         "date": "04.04.2022",
         "fact_value": 0,
-        "predict_value": 29254.025390625
+        "predict_value": 29090.986328125
     },
     {
         "hour": 0,
         "date": "05.04.2022",
         "fact_value": 0,
-        "predict_value": 27635.365234375
+        "predict_value": 28270.3671875
     },
     {
         "hour": 0,
         "date": "06.04.2022",
         "fact_value": 0,
-        "predict_value": 27860.421875
+        "predict_value": 27445.501953125
     },
     {
         "hour": 0,
         "date": "07.04.2022",
         "fact_value": 0,
-        "predict_value": 28189.853515625
+        "predict_value": 27940.91015625
     },
     {
         "hour": 0,
         "date": "08.04.2022",
         "fact_value": 0,
-        "predict_value": 29125.53515625
+        "predict_value": 28642.966796875
     },
     {
         "hour": 0,
         "date": "09.04.2022",
         "fact_value": 0,
-        "predict_value": 27963.8984375
+        "predict_value": 28552.28125
     },
     {
         "hour": 0,
         "date": "10.04.2022",
         "fact_value": 0,
-        "predict_value": 28196.529296875
+        "predict_value": 28110.455078125
     },
     {
         "hour": 0,
         "date": "11.04.2022",
         "fact_value": 0,
-        "predict_value": 28591.87890625
+        "predict_value": 27728.53515625
     },
     {
         "hour": 0,
         "date": "12.04.2022",
         "fact_value": 0,
-        "predict_value": 27013.69921875
+        "predict_value": 26618.599609375
     },
     {
         "hour": 0,
         "date": "13.04.2022",
         "fact_value": 0,
-        "predict_value": 26502.267578125
+        "predict_value": 25658.119140625
     },
     {
         "hour": 0,
         "date": "14.04.2022",
         "fact_value": 0,
-        "predict_value": 24936.2890625
+        "predict_value": 26242.865234375
     },
     {
         "hour": 0,
         "date": "15.04.2022",
         "fact_value": 0,
-        "predict_value": 27403.681640625
+        "predict_value": 27211.271484375
     },
     {
         "hour": 0,
         "date": "16.04.2022",
         "fact_value": 0,
-        "predict_value": 26875.896484375
+        "predict_value": 26842.478515625
     },
     {
         "hour": 0,
         "date": "17.04.2022",
         "fact_value": 0,
-        "predict_value": 27745.908203125
+        "predict_value": 26700.8203125
     },
     {
         "hour": 0,
         "date": "18.04.2022",
         "fact_value": 0,
-        "predict_value": 27428.767578125
+        "predict_value": 27216.357421875
     },
     {
         "hour": 0,
         "date": "19.04.2022",
         "fact_value": 0,
-        "predict_value": 27062.939453125
+        "predict_value": 26072.142578125
     },
     {
         "hour": 0,
         "date": "20.04.2022",
         "fact_value": 0,
-        "predict_value": 25778.2734375
+        "predict_value": 25372.43359375
     },
     {
         "hour": 0,
         "date": "21.04.2022",
         "fact_value": 0,
-        "predict_value": 27509.388671875
+        "predict_value": 26231.99609375
     },
     {
         "hour": 0,
         "date": "22.04.2022",
         "fact_value": 0,
-        "predict_value": 27278.125
+        "predict_value": 26593.228515625
     },
     {
         "hour": 0,
         "date": "23.04.2022",
         "fact_value": 0,
-        "predict_value": 27729.0703125
+        "predict_value": 27223.669921875
     },
     {
         "hour": 0,
         "date": "24.04.2022",
         "fact_value": 0,
-        "predict_value": 27786.6640625
+        "predict_value": 27407.837890625
     },
     {
         "hour": 0,
         "date": "25.04.2022",
         "fact_value": 0,
-        "predict_value": 28268.181640625
+        "predict_value": 27615.24609375
     },
     {
         "hour": 0,
         "date": "26.04.2022",
         "fact_value": 0,
-        "predict_value": 27148.84765625
+        "predict_value": 26048.810546875
     },
     {
         "hour": 0,
         "date": "27.04.2022",
         "fact_value": 0,
-        "predict_value": 25140.796875
+        "predict_value": 24991.837890625
     },
     {
         "hour": 0,
         "date": "28.04.2022",
         "fact_value": 0,
-        "predict_value": 26544.341796875
+        "predict_value": 26098.12109375
     },
     {
         "hour": 0,
         "date": "29.04.2022",
         "fact_value": 0,
-        "predict_value": 26413.7734375
+        "predict_value": 26479.580078125
     },
     {
         "hour": 0,
         "date": "30.04.2022",
         "fact_value": 0,
-        "predict_value": 26190.173828125
+        "predict_value": 26465.896484375
     },
     {
         "hour": 0,
         "date": "01.05.2022",
         "fact_value": 0,
-        "predict_value": 26324.947265625
+        "predict_value": 26574.607421875
     },
     {
         "hour": 0,
         "date": "02.05.2022",
         "fact_value": 0,
-        "predict_value": 25969.15234375
+        "predict_value": 25727.802734375
     },
     {
         "hour": 0,
         "date": "03.05.2022",
         "fact_value": 0,
-        "predict_value": 23834.96875
+        "predict_value": 23829.884765625
     },
     {
         "hour": 0,
         "date": "04.05.2022",
         "fact_value": 0,
-        "predict_value": 22755.47265625
+        "predict_value": 22749.861328125
     },
     {
         "hour": 0,
         "date": "05.05.2022",
         "fact_value": 0,
-        "predict_value": 22461.048828125
+        "predict_value": 22811.4921875
     },
     {
         "hour": 0,
         "date": "06.05.2022",
         "fact_value": 0,
-        "predict_value": 24045.6796875
+        "predict_value": 23027.82421875
     },
     {
         "hour": 0,
         "date": "07.05.2022",
         "fact_value": 0,
-        "predict_value": 25180.916015625
+        "predict_value": 24972.95703125
     },
     {
         "hour": 0,
         "date": "08.05.2022",
         "fact_value": 0,
-        "predict_value": 24053.599609375
+        "predict_value": 25216.375
     },
     {
         "hour": 0,
         "date": "09.05.2022",
         "fact_value": 0,
-        "predict_value": 24067.1484375
+        "predict_value": 24078.5625
     },
     {
         "hour": 0,
         "date": "10.05.2022",
         "fact_value": 0,
-        "predict_value": 23370.833984375
+        "predict_value": 22706.8671875
     },
     {
         "hour": 0,
         "date": "11.05.2022",
         "fact_value": 0,
-        "predict_value": 21983.77734375
+        "predict_value": 22660.869140625
     },
     {
         "hour": 0,
         "date": "12.05.2022",
         "fact_value": 0,
-        "predict_value": 22192.240234375
+        "predict_value": 21809.95703125
     },
     {
         "hour": 0,
         "date": "13.05.2022",
         "fact_value": 0,
-        "predict_value": 23524.18359375
+        "predict_value": 23838.00390625
     },
     {
         "hour": 0,
         "date": "14.05.2022",
         "fact_value": 0,
-        "predict_value": 24736.37109375
+        "predict_value": 24310.595703125
     },
     {
         "hour": 0,
         "date": "15.05.2022",
         "fact_value": 0,
-        "predict_value": 24010.947265625
+        "predict_value": 24096.26953125
     },
     {
         "hour": 0,
         "date": "16.05.2022",
         "fact_value": 0,
-        "predict_value": 24488.7578125
+        "predict_value": 24366.76171875
     },
     {
         "hour": 0,
         "date": "17.05.2022",
         "fact_value": 0,
-        "predict_value": 24765.783203125
+        "predict_value": 23568.076171875
     },
     {
         "hour": 0,
         "date": "18.05.2022",
         "fact_value": 0,
-        "predict_value": 23019.0390625
+        "predict_value": 23608.263671875
     },
     {
         "hour": 0,
         "date": "19.05.2022",
         "fact_value": 0,
-        "predict_value": 23922.3671875
+        "predict_value": 25037.09765625
     },
     {
         "hour": 0,
         "date": "20.05.2022",
         "fact_value": 0,
-        "predict_value": 25419.35546875
+        "predict_value": 25702.970703125
     },
     {
         "hour": 0,
         "date": "21.05.2022",
         "fact_value": 0,
-        "predict_value": 25264.912109375
+        "predict_value": 25332.87890625
     },
     {
         "hour": 0,
         "date": "22.05.2022",
         "fact_value": 0,
-        "predict_value": 25695.541015625
+        "predict_value": 25096.474609375
     },
     {
         "hour": 0,
         "date": "23.05.2022",
         "fact_value": 0,
-        "predict_value": 25533.4609375
+        "predict_value": 25442.873046875
     },
     {
         "hour": 0,
         "date": "24.05.2022",
         "fact_value": 0,
-        "predict_value": 25325.2578125
+        "predict_value": 24401.9921875
     },
     {
         "hour": 0,
         "date": "25.05.2022",
         "fact_value": 0,
-        "predict_value": 23350.513671875
+        "predict_value": 23333.7890625
     },
     {
         "hour": 0,
         "date": "26.05.2022",
         "fact_value": 0,
-        "predict_value": 24241.140625
+        "predict_value": 24854.041015625
     },
     {
         "hour": 0,
         "date": "27.05.2022",
         "fact_value": 0,
-        "predict_value": 23988.96875
+        "predict_value": 24823.494140625
     },
     {
         "hour": 0,
         "date": "28.05.2022",
         "fact_value": 0,
-        "predict_value": 24295.806640625
+        "predict_value": 24911.578125
     },
     {
         "hour": 0,
         "date": "29.05.2022",
         "fact_value": 0,
-        "predict_value": 24065.595703125
+        "predict_value": 24134.220703125
     },
     {
         "hour": 0,
         "date": "30.05.2022",
         "fact_value": 0,
-        "predict_value": 24671.13671875
+        "predict_value": 24449.099609375
     },
     {
         "hour": 0,
         "date": "31.05.2022",
         "fact_value": 0,
-        "predict_value": 24015.669921875
+        "predict_value": 23492.103515625
     },
     {
         "hour": 0,
         "date": "01.06.2022",
         "fact_value": 0,
-        "predict_value": 22577.60546875
+        "predict_value": 22625.8203125
     },
     {
         "hour": 0,
         "date": "02.06.2022",
         "fact_value": 0,
-        "predict_value": 23166.828125
+        "predict_value": 24379.669921875
     },
     {
         "hour": 0,
         "date": "03.06.2022",
         "fact_value": 0,
-        "predict_value": 23814.978515625
+        "predict_value": 24460.923828125
     },
     {
         "hour": 0,
         "date": "04.06.2022",
         "fact_value": 0,
-        "predict_value": 23066.595703125
+        "predict_value": 24070.826171875
     },
     {
         "hour": 0,
         "date": "05.06.2022",
         "fact_value": 0,
-        "predict_value": 24444.72265625
+        "predict_value": 24059.001953125
     },
     {
         "hour": 0,
         "date": "06.06.2022",
         "fact_value": 0,
-        "predict_value": 24241.267578125
+        "predict_value": 24434.109375
     },
     {
         "hour": 0,
         "date": "07.06.2022",
         "fact_value": 0,
-        "predict_value": 24163.486328125
+        "predict_value": 22903.869140625
     },
     {
         "hour": 0,
         "date": "08.06.2022",
         "fact_value": 0,
-        "predict_value": 22660.767578125
+        "predict_value": 22434.18359375
     },
     {
         "hour": 0,
         "date": "09.06.2022",
         "fact_value": 0,
-        "predict_value": 23136.35546875
+        "predict_value": 24321.748046875
     },
     {
         "hour": 0,
         "date": "10.06.2022",
         "fact_value": 0,
-        "predict_value": 24467.736328125
+        "predict_value": 24897.857421875
     },
     {
         "hour": 0,
         "date": "11.06.2022",
         "fact_value": 0,
-        "predict_value": 24498.990234375
+        "predict_value": 24653.5234375
     },
     {
         "hour": 0,
         "date": "12.06.2022",
         "fact_value": 0,
-        "predict_value": 23896.919921875
+        "predict_value": 24797.6875
     },
     {
         "hour": 0,
         "date": "13.06.2022",
         "fact_value": 0,
-        "predict_value": 24806.46484375
+        "predict_value": 24646.71484375
     },
     {
         "hour": 0,
         "date": "14.06.2022",
         "fact_value": 0,
-        "predict_value": 22101.26953125
+        "predict_value": 23530.2734375
     },
     {
         "hour": 0,
         "date": "15.06.2022",
         "fact_value": 0,
-        "predict_value": 21930.908203125
+        "predict_value": 23120.328125
     },
     {
         "hour": 0,
         "date": "16.06.2022",
         "fact_value": 0,
-        "predict_value": 22972.591796875
+        "predict_value": 23085.166015625
     },
     {
         "hour": 0,
         "date": "17.06.2022",
         "fact_value": 0,
-        "predict_value": 24380.03515625
+        "predict_value": 24405.279296875
     },
     {
         "hour": 0,
         "date": "18.06.2022",
         "fact_value": 0,
-        "predict_value": 24588.271484375
+        "predict_value": 24186.296875
     },
     {
         "hour": 0,
         "date": "19.06.2022",
         "fact_value": 0,
-        "predict_value": 24968.806640625
+        "predict_value": 24250.7734375
     },
     {
         "hour": 0,
         "date": "20.06.2022",
         "fact_value": 0,
-        "predict_value": 24617.66015625
+        "predict_value": 24746.599609375
     },
     {
         "hour": 0,
         "date": "21.06.2022",
         "fact_value": 0,
-        "predict_value": 23805.0859375
+        "predict_value": 23491.857421875
     },
     {
         "hour": 0,
         "date": "22.06.2022",
         "fact_value": 0,
-        "predict_value": 21851.3125
+        "predict_value": 22510.654296875
     },
     {
         "hour": 0,
         "date": "23.06.2022",
         "fact_value": 0,
-        "predict_value": 23368.564453125
+        "predict_value": 24321.826171875
     },
     {
         "hour": 0,
         "date": "24.06.2022",
         "fact_value": 0,
-        "predict_value": 24411.734375
+        "predict_value": 25358.177734375
     },
     {
         "hour": 0,
         "date": "25.06.2022",
         "fact_value": 0,
-        "predict_value": 25017.12109375
+        "predict_value": 25337.470703125
     },
     {
         "hour": 0,
         "date": "26.06.2022",
         "fact_value": 0,
-        "predict_value": 23881.71484375
+        "predict_value": 25263.259765625
     },
     {
         "hour": 0,
         "date": "27.06.2022",
         "fact_value": 0,
-        "predict_value": 23684.4375
+        "predict_value": 25040.919921875
     },
     {
         "hour": 0,
         "date": "28.06.2022",
         "fact_value": 0,
-        "predict_value": 23346.03515625
+        "predict_value": 23513.908203125
     },
     {
         "hour": 0,
         "date": "29.06.2022",
         "fact_value": 0,
-        "predict_value": 22874.49609375
+        "predict_value": 23403.5234375
     },
     {
         "hour": 0,
         "date": "30.06.2022",
         "fact_value": 0,
-        "predict_value": 23738.841796875
+        "predict_value": 24899.03515625
     },
     {
         "hour": 0,
         "date": "01.07.2022",
         "fact_value": 0,
-        "predict_value": 24507.65234375
+        "predict_value": 25146.0546875
     },
     {
         "hour": 0,
         "date": "02.07.2022",
         "fact_value": 0,
-        "predict_value": 24400.6796875
+        "predict_value": 25179.13671875
     },
     {
         "hour": 0,
         "date": "03.07.2022",
         "fact_value": 0,
-        "predict_value": 22922.427734375
+        "predict_value": 23749.513671875
     },
     {
         "hour": 0,
         "date": "04.07.2022",
         "fact_value": 0,
-        "predict_value": 24790.23046875
+        "predict_value": 24599.880859375
     },
     {
         "hour": 0,
         "date": "05.07.2022",
         "fact_value": 0,
-        "predict_value": 23123.08984375
+        "predict_value": 23571.025390625
     },
     {
         "hour": 0,
         "date": "06.07.2022",
         "fact_value": 0,
-        "predict_value": 22855.703125
+        "predict_value": 22908.287109375
     },
     {
         "hour": 0,
         "date": "07.07.2022",
         "fact_value": 0,
-        "predict_value": 23526.615234375
+        "predict_value": 24595.228515625
     },
     {
         "hour": 0,
         "date": "08.07.2022",
         "fact_value": 0,
-        "predict_value": 24244.54296875
+        "predict_value": 23816.435546875
     },
     {
         "hour": 0,
         "date": "09.07.2022",
         "fact_value": 0,
-        "predict_value": 24184.80859375
+        "predict_value": 23660.81640625
     },
     {
         "hour": 0,
         "date": "10.07.2022",
         "fact_value": 0,
-        "predict_value": 23535.013671875
+        "predict_value": 23910.357421875
     },
     {
         "hour": 0,
         "date": "11.07.2022",
         "fact_value": 0,
-        "predict_value": 23874.412109375
+        "predict_value": 24197.984375
     },
     {
         "hour": 0,
         "date": "12.07.2022",
         "fact_value": 0,
-        "predict_value": 23057.767578125
+        "predict_value": 23123.341796875
     },
     {
         "hour": 0,
         "date": "13.07.2022",
         "fact_value": 0,
-        "predict_value": 22089.78125
+        "predict_value": 22391.384765625
     },
     {
         "hour": 0,
         "date": "14.07.2022",
         "fact_value": 0,
-        "predict_value": 22820.4375
+        "predict_value": 23475.818359375
     },
     {
         "hour": 0,
         "date": "15.07.2022",
         "fact_value": 0,
-        "predict_value": 24490.85546875
+        "predict_value": 24698.703125
     },
     {
         "hour": 0,
         "date": "16.07.2022",
         "fact_value": 0,
-        "predict_value": 24575.42578125
+        "predict_value": 25445.4765625
     },
     {
         "hour": 0,
         "date": "17.07.2022",
         "fact_value": 0,
-        "predict_value": 25175.888671875
+        "predict_value": 24843.24609375
     },
     {
         "hour": 0,
         "date": "18.07.2022",
         "fact_value": 0,
-        "predict_value": 24388.685546875
+        "predict_value": 25253.029296875
     },
     {
         "hour": 0,
         "date": "19.07.2022",
         "fact_value": 0,
-        "predict_value": 24435.7734375
+        "predict_value": 24064.6171875
     },
     {
         "hour": 0,
         "date": "20.07.2022",
         "fact_value": 0,
-        "predict_value": 22142.572265625
+        "predict_value": 23018.375
     },
     {
         "hour": 0,
         "date": "21.07.2022",
         "fact_value": 0,
-        "predict_value": 23804.6015625
+        "predict_value": 25037
     },
     {
         "hour": 0,
         "date": "22.07.2022",
         "fact_value": 0,
-        "predict_value": 24918.015625
+        "predict_value": 25169.310546875
     },
     {
         "hour": 0,
         "date": "23.07.2022",
         "fact_value": 0,
-        "predict_value": 24270.05078125
+        "predict_value": 24906.845703125
     },
     {
         "hour": 0,
         "date": "24.07.2022",
         "fact_value": 0,
-        "predict_value": 25276.318359375
+        "predict_value": 24242.29296875
     },
     {
         "hour": 0,
         "date": "25.07.2022",
         "fact_value": 0,
-        "predict_value": 23381.173828125
+        "predict_value": 24533.94140625
     },
     {
         "hour": 0,
         "date": "26.07.2022",
         "fact_value": 0,
-        "predict_value": 24013.35546875
+        "predict_value": 23469.875
     },
     {
         "hour": 0,
         "date": "27.07.2022",
         "fact_value": 0,
-        "predict_value": 22442.708984375
+        "predict_value": 22895.78125
     },
     {
         "hour": 0,
         "date": "28.07.2022",
         "fact_value": 0,
-        "predict_value": 23622.07421875
+        "predict_value": 24931.734375
     },
     {
         "hour": 0,
         "date": "29.07.2022",
         "fact_value": 0,
-        "predict_value": 23838.91796875
+        "predict_value": 25165.259765625
     },
     {
         "hour": 0,
         "date": "30.07.2022",
         "fact_value": 0,
-        "predict_value": 24999.34375
+        "predict_value": 25312.421875
     },
     {
         "hour": 0,
         "date": "31.07.2022",
         "fact_value": 0,
-        "predict_value": 24534.884765625
+        "predict_value": 25274.61328125
     },
     {
         "hour": 0,
         "date": "01.08.2022",
         "fact_value": 0,
-        "predict_value": 24533.255859375
+        "predict_value": 25601.41796875
     },
     {
         "hour": 0,
         "date": "02.08.2022",
         "fact_value": 0,
-        "predict_value": 24337.580078125
+        "predict_value": 24287.546875
     },
     {
         "hour": 0,
         "date": "03.08.2022",
         "fact_value": 0,
-        "predict_value": 22946.068359375
+        "predict_value": 23110.6484375
     },
     {
         "hour": 0,
         "date": "04.08.2022",
         "fact_value": 0,
-        "predict_value": 24572.548828125
+        "predict_value": 24870.546875
     },
     {
         "hour": 0,
         "date": "05.08.2022",
         "fact_value": 0,
-        "predict_value": 25631.3984375
+        "predict_value": 25677.04296875
     },
     {
         "hour": 0,
         "date": "06.08.2022",
         "fact_value": 0,
-        "predict_value": 24089.349609375
+        "predict_value": 25180.8203125
     },
     {
         "hour": 0,
         "date": "07.08.2022",
         "fact_value": 0,
-        "predict_value": 23284.56640625
+        "predict_value": 25209.46484375
     },
     {
         "hour": 0,
         "date": "08.08.2022",
         "fact_value": 0,
-        "predict_value": 23697.884765625
+        "predict_value": 25147.798828125
     },
     {
         "hour": 0,
         "date": "09.08.2022",
         "fact_value": 0,
-        "predict_value": 23378.8671875
+        "predict_value": 23671.24609375
     },
     {
         "hour": 0,
         "date": "10.08.2022",
         "fact_value": 0,
-        "predict_value": 24502.3125
+        "predict_value": 23720.822265625
     },
     {
         "hour": 0,
         "date": "11.08.2022",
         "fact_value": 0,
-        "predict_value": 24420.75
+        "predict_value": 24363.833984375
     },
     {
         "hour": 0,
         "date": "12.08.2022",
         "fact_value": 0,
-        "predict_value": 25016.751953125
+        "predict_value": 25094.736328125
     },
     {
         "hour": 0,
         "date": "13.08.2022",
         "fact_value": 0,
-        "predict_value": 25148.453125
+        "predict_value": 25128.35546875
     },
     {
         "hour": 0,
         "date": "14.08.2022",
         "fact_value": 0,
-        "predict_value": 24773.435546875
+        "predict_value": 24882.306640625
     },
     {
         "hour": 0,
         "date": "15.08.2022",
         "fact_value": 0,
-        "predict_value": 25002.572265625
+        "predict_value": 24622.1875
     },
     {
         "hour": 0,
         "date": "16.08.2022",
         "fact_value": 0,
-        "predict_value": 23754.4296875
+        "predict_value": 23298.982421875
     },
     {
         "hour": 0,
         "date": "17.08.2022",
         "fact_value": 0,
-        "predict_value": 22673.833984375
+        "predict_value": 22639.423828125
     },
     {
         "hour": 0,
         "date": "18.08.2022",
         "fact_value": 0,
-        "predict_value": 24341.048828125
+        "predict_value": 23981.001953125
     },
     {
         "hour": 0,
         "date": "19.08.2022",
         "fact_value": 0,
-        "predict_value": 24705.353515625
+        "predict_value": 24385.8046875
     },
     {
         "hour": 0,
         "date": "20.08.2022",
         "fact_value": 0,
-        "predict_value": 24137.7421875
+        "predict_value": 25037.0546875
     },
     {
         "hour": 0,
         "date": "21.08.2022",
         "fact_value": 0,
-        "predict_value": 24886.021484375
+        "predict_value": 24780.658203125
     },
     {
         "hour": 0,
         "date": "22.08.2022",
         "fact_value": 0,
-        "predict_value": 24721.783203125
+        "predict_value": 25130.9296875
     },
     {
         "hour": 0,
         "date": "23.08.2022",
         "fact_value": 0,
-        "predict_value": 24073.166015625
+        "predict_value": 23937.189453125
     },
     {
         "hour": 0,
         "date": "24.08.2022",
         "fact_value": 0,
-        "predict_value": 23215.71875
+        "predict_value": 23141.84375
     },
     {
         "hour": 0,
         "date": "25.08.2022",
         "fact_value": 0,
-        "predict_value": 23848.751953125
+        "predict_value": 24690.3671875
     },
     {
         "hour": 0,
         "date": "26.08.2022",
         "fact_value": 0,
-        "predict_value": 24653.39453125
+        "predict_value": 25563.916015625
     },
     {
         "hour": 0,
         "date": "27.08.2022",
         "fact_value": 0,
-        "predict_value": 25216.1015625
+        "predict_value": 25229.6796875
     },
     {
         "hour": 0,
         "date": "28.08.2022",
         "fact_value": 0,
-        "predict_value": 24619.494140625
+        "predict_value": 24608.658203125
     },
     {
         "hour": 0,
         "date": "29.08.2022",
         "fact_value": 0,
-        "predict_value": 24744.76953125
+        "predict_value": 25161.107421875
     },
     {
         "hour": 0,
         "date": "30.08.2022",
         "fact_value": 0,
-        "predict_value": 22903.552734375
+        "predict_value": 23479.890625
     },
     {
         "hour": 0,
         "date": "31.08.2022",
         "fact_value": 0,
-        "predict_value": 22810.0546875
+        "predict_value": 23163.7890625
     },
     {
         "hour": 0,
         "date": "01.09.2022",
         "fact_value": 0,
-        "predict_value": 24543.693359375
+        "predict_value": 24501.86328125
     },
     {
         "hour": 0,
         "date": "02.09.2022",
         "fact_value": 0,
-        "predict_value": 24248.26953125
+        "predict_value": 25198.5078125
     },
     {
         "hour": 0,
         "date": "03.09.2022",
         "fact_value": 0,
-        "predict_value": 24226.98828125
+        "predict_value": 24498.654296875
     },
     {
         "hour": 0,
         "date": "04.09.2022",
         "fact_value": 0,
-        "predict_value": 25418.6875
+        "predict_value": 24438.138671875
     },
     {
         "hour": 0,
         "date": "05.09.2022",
         "fact_value": 0,
-        "predict_value": 24529.541015625
+        "predict_value": 24765.6015625
     },
     {
         "hour": 0,
         "date": "06.09.2022",
         "fact_value": 0,
-        "predict_value": 24164.55859375
+        "predict_value": 23913.455078125
     },
     {
         "hour": 0,
         "date": "07.09.2022",
         "fact_value": 0,
-        "predict_value": 23090.392578125
+        "predict_value": 23157
     },
     {
         "hour": 0,
         "date": "08.09.2022",
         "fact_value": 0,
-        "predict_value": 24022.361328125
+        "predict_value": 24563.96875
     },
     {
         "hour": 0,
         "date": "09.09.2022",
         "fact_value": 0,
-        "predict_value": 24661.849609375
+        "predict_value": 25057.8125
     },
     {
         "hour": 0,
         "date": "10.09.2022",
         "fact_value": 0,
-        "predict_value": 24150.728515625
+        "predict_value": 24648.0390625
     },
     {
         "hour": 0,
         "date": "11.09.2022",
         "fact_value": 0,
-        "predict_value": 24929.220703125
+        "predict_value": 25503.66015625
     },
     {
         "hour": 0,
         "date": "12.09.2022",
         "fact_value": 0,
-        "predict_value": 24618.130859375
+        "predict_value": 25014.86328125
     },
     {
         "hour": 0,
         "date": "13.09.2022",
         "fact_value": 0,
-        "predict_value": 24479.005859375
+        "predict_value": 24622.791015625
     },
     {
         "hour": 0,
         "date": "14.09.2022",
         "fact_value": 0,
-        "predict_value": 24587.787109375
+        "predict_value": 24198.912109375
     },
     {
         "hour": 0,
         "date": "15.09.2022",
         "fact_value": 0,
-        "predict_value": 24746.712890625
+        "predict_value": 25222.48828125
     },
     {
         "hour": 0,
         "date": "16.09.2022",
         "fact_value": 0,
-        "predict_value": 25669.646484375
+        "predict_value": 26040.474609375
     },
     {
         "hour": 0,
         "date": "17.09.2022",
         "fact_value": 0,
-        "predict_value": 25029.62109375
+        "predict_value": 25844.9296875
     },
     {
         "hour": 0,
         "date": "18.09.2022",
         "fact_value": 0,
-        "predict_value": 26257.3515625
+        "predict_value": 26294.626953125
     },
     {
         "hour": 0,
         "date": "19.09.2022",
         "fact_value": 0,
-        "predict_value": 25870.34375
+        "predict_value": 26306.4765625
     },
     {
         "hour": 0,
         "date": "20.09.2022",
         "fact_value": 0,
-        "predict_value": 25706.19921875
+        "predict_value": 25328.357421875
     },
     {
         "hour": 0,
         "date": "21.09.2022",
         "fact_value": 0,
-        "predict_value": 24053.77734375
+        "predict_value": 25125.1640625
     },
     {
         "hour": 0,
         "date": "22.09.2022",
         "fact_value": 0,
-        "predict_value": 25887.166015625
+        "predict_value": 26681.92578125
     },
     {
         "hour": 0,
         "date": "23.09.2022",
         "fact_value": 0,
-        "predict_value": 27183.01953125
+        "predict_value": 27537.5625
     },
     {
         "hour": 0,
         "date": "24.09.2022",
         "fact_value": 0,
-        "predict_value": 27378.86328125
+        "predict_value": 27644.494140625
     },
     {
         "hour": 0,
         "date": "25.09.2022",
         "fact_value": 0,
-        "predict_value": 27842.369140625
+        "predict_value": 28289.16015625
     },
     {
         "hour": 0,
         "date": "26.09.2022",
         "fact_value": 0,
-        "predict_value": 27322.70703125
+        "predict_value": 28013.857421875
     },
     {
         "hour": 0,
         "date": "27.09.2022",
         "fact_value": 0,
-        "predict_value": 26702.005859375
+        "predict_value": 26619.697265625
     },
     {
         "hour": 0,
         "date": "28.09.2022",
         "fact_value": 0,
-        "predict_value": 24746.775390625
+        "predict_value": 26160.806640625
     },
     {
         "hour": 0,
         "date": "29.09.2022",
         "fact_value": 0,
-        "predict_value": 25739.345703125
+        "predict_value": 27671.75390625
     },
     {
         "hour": 0,
         "date": "30.09.2022",
         "fact_value": 0,
-        "predict_value": 27599.18359375
+        "predict_value": 27648.478515625
     },
     {
         "hour": 0,
         "date": "01.10.2022",
         "fact_value": 0,
-        "predict_value": 27281.900390625
+        "predict_value": 28119.71484375
     },
     {
         "hour": 0,
         "date": "02.10.2022",
         "fact_value": 0,
-        "predict_value": 27346.1015625
+        "predict_value": 28109.056640625
     },
     {
         "hour": 0,
         "date": "03.10.2022",
         "fact_value": 0,
-        "predict_value": 27987.794921875
+        "predict_value": 28132.6953125
     },
     {
         "hour": 0,
         "date": "04.10.2022",
         "fact_value": 0,
-        "predict_value": 25961.3046875
+        "predict_value": 26937.8359375
     },
     {
         "hour": 0,
         "date": "05.10.2022",
         "fact_value": 0,
-        "predict_value": 26345.98828125
+        "predict_value": 25515.5
     },
     {
         "hour": 0,
         "date": "06.10.2022",
         "fact_value": 0,
-        "predict_value": 26109.865234375
+        "predict_value": 26648.9375
     },
     {
         "hour": 0,
         "date": "07.10.2022",
         "fact_value": 0,
-        "predict_value": 26358.857421875
+        "predict_value": 27854.638671875
     },
     {
         "hour": 0,
         "date": "08.10.2022",
         "fact_value": 0,
-        "predict_value": 27254.3515625
+        "predict_value": 28146.439453125
     },
     {
         "hour": 0,
         "date": "09.10.2022",
         "fact_value": 0,
-        "predict_value": 28118.0078125
+        "predict_value": 28553.455078125
     },
     {
         "hour": 0,
         "date": "10.10.2022",
         "fact_value": 0,
-        "predict_value": 28917.34375
+        "predict_value": 28561.06640625
     },
     {
         "hour": 0,
         "date": "11.10.2022",
         "fact_value": 0,
-        "predict_value": 27744.552734375
+        "predict_value": 27513.3125
     },
     {
         "hour": 0,
         "date": "12.10.2022",
         "fact_value": 0,
-        "predict_value": 28419.818359375
+        "predict_value": 27016.791015625
     },
     {
         "hour": 0,
         "date": "13.10.2022",
         "fact_value": 0,
-        "predict_value": 27947.78515625
+        "predict_value": 28876.36328125
     },
     {
         "hour": 0,
         "date": "14.10.2022",
         "fact_value": 0,
-        "predict_value": 28851.72265625
+        "predict_value": 29371.3515625
     },
     {
         "hour": 0,
         "date": "15.10.2022",
         "fact_value": 0,
-        "predict_value": 28949.712890625
+        "predict_value": 30088.138671875
     },
     {
         "hour": 0,
         "date": "16.10.2022",
         "fact_value": 0,
-        "predict_value": 29881.984375
+        "predict_value": 29856.7421875
     },
     {
         "hour": 0,
         "date": "17.10.2022",
         "fact_value": 0,
-        "predict_value": 30226.28125
+        "predict_value": 29815.373046875
     },
     {
         "hour": 0,
         "date": "18.10.2022",
         "fact_value": 0,
-        "predict_value": 28909.85546875
+        "predict_value": 28912.703125
     },
     {
         "hour": 0,
         "date": "19.10.2022",
         "fact_value": 0,
-        "predict_value": 28187.3125
+        "predict_value": 27473.099609375
     },
     {
         "hour": 0,
         "date": "20.10.2022",
         "fact_value": 0,
-        "predict_value": 28472.060546875
+        "predict_value": 29575.28125
     },
     {
         "hour": 0,
         "date": "21.10.2022",
         "fact_value": 0,
-        "predict_value": 29649.8359375
+        "predict_value": 30098.73046875
     },
     {
         "hour": 0,
         "date": "22.10.2022",
         "fact_value": 0,
-        "predict_value": 29428.611328125
+        "predict_value": 30134.263671875
     },
     {
         "hour": 0,
         "date": "23.10.2022",
         "fact_value": 0,
-        "predict_value": 30790.962890625
+        "predict_value": 30261.30859375
     },
     {
         "hour": 0,
         "date": "24.10.2022",
         "fact_value": 0,
-        "predict_value": 30407.806640625
+        "predict_value": 30731.5859375
     },
     {
         "hour": 0,
         "date": "25.10.2022",
         "fact_value": 0,
-        "predict_value": 29992.34765625
+        "predict_value": 29587.095703125
     },
     {
         "hour": 0,
         "date": "26.10.2022",
         "fact_value": 0,
-        "predict_value": 28339.525390625
+        "predict_value": 28401.91796875
     },
     {
         "hour": 0,
         "date": "27.10.2022",
         "fact_value": 0,
-        "predict_value": 28890.525390625
+        "predict_value": 29896.19140625
     },
     {
         "hour": 0,
         "date": "28.10.2022",
         "fact_value": 0,
-        "predict_value": 30507.5546875
+        "predict_value": 30263.8828125
     },
     {
         "hour": 0,
         "date": "29.10.2022",
         "fact_value": 0,
-        "predict_value": 30600.896484375
+        "predict_value": 31028.095703125
     },
     {
         "hour": 0,
         "date": "30.10.2022",
         "fact_value": 0,
-        "predict_value": 31017.208984375
+        "predict_value": 31232.7421875
     },
     {
         "hour": 0,
         "date": "31.10.2022",
         "fact_value": 0,
-        "predict_value": 30786.068359375
+        "predict_value": 31308.03515625
     },
     {
         "hour": 0,
         "date": "01.11.2022",
         "fact_value": 0,
-        "predict_value": 29651.51171875
+        "predict_value": 29884.861328125
     },
     {
         "hour": 0,
         "date": "02.11.2022",
         "fact_value": 0,
-        "predict_value": 28519.73828125
+        "predict_value": 29020.197265625
     },
     {
         "hour": 0,
         "date": "03.11.2022",
         "fact_value": 0,
-        "predict_value": 29107.5234375
+        "predict_value": 30405.66015625
     },
     {
         "hour": 0,
         "date": "04.11.2022",
         "fact_value": 0,
-        "predict_value": 30413.119140625
+        "predict_value": 30968.1953125
     },
     {
         "hour": 0,
         "date": "05.11.2022",
         "fact_value": 0,
-        "predict_value": 30746.541015625
+        "predict_value": 31687.408203125
     },
     {
         "hour": 0,
         "date": "06.11.2022",
         "fact_value": 0,
-        "predict_value": 29529.111328125
+        "predict_value": 31000.275390625
     },
     {
         "hour": 0,
         "date": "07.11.2022",
         "fact_value": 0,
-        "predict_value": 29633.98828125
+        "predict_value": 30204.912109375
     },
     {
         "hour": 0,
         "date": "08.11.2022",
         "fact_value": 0,
-        "predict_value": 29231.037109375
+        "predict_value": 29663.50390625
     },
     {
         "hour": 0,
         "date": "09.11.2022",
         "fact_value": 0,
-        "predict_value": 29108.525390625
+        "predict_value": 29864.98046875
     },
     {
         "hour": 0,
         "date": "10.11.2022",
         "fact_value": 0,
-        "predict_value": 29144.95703125
+        "predict_value": 31249.1328125
     },
     {
         "hour": 0,
         "date": "11.11.2022",
         "fact_value": 0,
-        "predict_value": 30060.2890625
+        "predict_value": 31526.998046875
     },
     {
         "hour": 0,
         "date": "12.11.2022",
         "fact_value": 0,
-        "predict_value": 31314
+        "predict_value": 31444.15234375
     },
     {
         "hour": 0,
         "date": "13.11.2022",
         "fact_value": 0,
-        "predict_value": 31084.958984375
+        "predict_value": 32126.927734375
     },
     {
         "hour": 0,
         "date": "14.11.2022",
         "fact_value": 0,
-        "predict_value": 30176.119140625
+        "predict_value": 31324.84375
     },
     {
         "hour": 0,
         "date": "15.11.2022",
         "fact_value": 0,
-        "predict_value": 31122.72265625
+        "predict_value": 31066.833984375
     },
     {
         "hour": 0,
         "date": "16.11.2022",
         "fact_value": 0,
-        "predict_value": 29359.447265625
+        "predict_value": 29892.634765625
     },
     {
         "hour": 0,
         "date": "17.11.2022",
         "fact_value": 0,
-        "predict_value": 31170.392578125
+        "predict_value": 31245.580078125
     },
     {
         "hour": 0,
         "date": "18.11.2022",
         "fact_value": 0,
-        "predict_value": 31861.26953125
+        "predict_value": 32428.138671875
     },
     {
         "hour": 0,
         "date": "19.11.2022",
         "fact_value": 0,
-        "predict_value": 32943.171875
+        "predict_value": 31810.4296875
     },
     {
         "hour": 0,
         "date": "20.11.2022",
         "fact_value": 0,
-        "predict_value": 31850.029296875
+        "predict_value": 32298.3828125
     },
     {
         "hour": 0,
         "date": "21.11.2022",
         "fact_value": 0,
-        "predict_value": 31534.310546875
+        "predict_value": 32454.845703125
     },
     {
         "hour": 0,
         "date": "22.11.2022",
         "fact_value": 0,
-        "predict_value": 30328.703125
+        "predict_value": 30819.15625
     },
     {
         "hour": 0,
         "date": "23.11.2022",
         "fact_value": 0,
-        "predict_value": 29680.013671875
+        "predict_value": 30173.73828125
     },
     {
         "hour": 0,
         "date": "24.11.2022",
         "fact_value": 0,
-        "predict_value": 31226.306640625
+        "predict_value": 31955.783203125
     },
     {
         "hour": 0,
         "date": "25.11.2022",
         "fact_value": 0,
-        "predict_value": 31280.130859375
+        "predict_value": 32458.90625
     },
     {
         "hour": 0,
         "date": "26.11.2022",
         "fact_value": 0,
-        "predict_value": 31944.912109375
+        "predict_value": 32613.783203125
     },
     {
         "hour": 0,
         "date": "27.11.2022",
         "fact_value": 0,
-        "predict_value": 31862.85546875
+        "predict_value": 32757.50390625
     },
     {
         "hour": 0,
         "date": "28.11.2022",
         "fact_value": 0,
-        "predict_value": 32478.685546875
+        "predict_value": 33017.88671875
     },
     {
         "hour": 0,
         "date": "29.11.2022",
         "fact_value": 0,
-        "predict_value": 31619.43359375
+        "predict_value": 31556.7109375
     },
     {
         "hour": 0,
         "date": "30.11.2022",
         "fact_value": 0,
-        "predict_value": 29846.06640625
+        "predict_value": 30539.392578125
     },
     {
         "hour": 0,
         "date": "01.12.2022",
         "fact_value": 0,
-        "predict_value": 31532.576171875
+        "predict_value": 31910.083984375
     },
     {
         "hour": 0,
         "date": "02.12.2022",
         "fact_value": 0,
-        "predict_value": 33266.20703125
+        "predict_value": 33136.8359375
     },
     {
         "hour": 0,
         "date": "03.12.2022",
         "fact_value": 0,
-        "predict_value": 32777.4375
+        "predict_value": 34019.84765625
     },
     {
         "hour": 0,
         "date": "04.12.2022",
         "fact_value": 0,
-        "predict_value": 32537.796875
+        "predict_value": 33331.20703125
     },
     {
         "hour": 0,
         "date": "05.12.2022",
         "fact_value": 0,
-        "predict_value": 32927.15234375
+        "predict_value": 32850.484375
     },
     {
         "hour": 0,
         "date": "06.12.2022",
         "fact_value": 0,
-        "predict_value": 32055.564453125
+        "predict_value": 31845.14453125
     },
     {
         "hour": 0,
         "date": "07.12.2022",
         "fact_value": 0,
-        "predict_value": 30620.13671875
+        "predict_value": 30847.92578125
     },
     {
         "hour": 0,
         "date": "08.12.2022",
         "fact_value": 0,
-        "predict_value": 31744.736328125
+        "predict_value": 32539.74609375
     },
     {
         "hour": 0,
         "date": "09.12.2022",
         "fact_value": 0,
-        "predict_value": 32267.142578125
+        "predict_value": 33168.1328125
     },
     {
         "hour": 0,
         "date": "10.12.2022",
         "fact_value": 0,
-        "predict_value": 32877.6953125
+        "predict_value": 33430.6171875
     },
     {
         "hour": 0,
         "date": "11.12.2022",
         "fact_value": 0,
-        "predict_value": 31855.19140625
+        "predict_value": 33729.08984375
     },
     {
         "hour": 0,
         "date": "12.12.2022",
         "fact_value": 0,
-        "predict_value": 33246.58203125
+        "predict_value": 32868.8515625
     },
     {
         "hour": 0,
         "date": "13.12.2022",
         "fact_value": 0,
-        "predict_value": 31680.61328125
+        "predict_value": 31575.197265625
     },
     {
         "hour": 0,
         "date": "14.12.2022",
         "fact_value": 0,
-        "predict_value": 30983.119140625
+        "predict_value": 31165.951171875
     },
     {
         "hour": 0,
         "date": "15.12.2022",
         "fact_value": 0,
-        "predict_value": 32290.763671875
+        "predict_value": 33109.9453125
     },
     {
         "hour": 0,
         "date": "16.12.2022",
         "fact_value": 0,
-        "predict_value": 32744.263671875
+        "predict_value": 34086.9453125
     },
     {
         "hour": 0,
         "date": "17.12.2022",
         "fact_value": 0,
-        "predict_value": 32518.9765625
+        "predict_value": 34307.93359375
     },
     {
         "hour": 0,
         "date": "18.12.2022",
         "fact_value": 0,
-        "predict_value": 33474.21875
+        "predict_value": 33822.3046875
     },
     {
         "hour": 0,
         "date": "19.12.2022",
         "fact_value": 0,
-        "predict_value": 33399.8203125
+        "predict_value": 34705.6953125
     },
     {
         "hour": 0,
         "date": "20.12.2022",
         "fact_value": 0,
-        "predict_value": 32728.98828125
+        "predict_value": 32734.857421875
     },
     {
         "hour": 0,
         "date": "21.12.2022",
         "fact_value": 0,
-        "predict_value": 30667.873046875
+        "predict_value": 31869.93359375
     },
     {
         "hour": 0,
         "date": "22.12.2022",
         "fact_value": 0,
-        "predict_value": 32119.216796875
+        "predict_value": 32576.28125
     },
     {
         "hour": 0,
         "date": "23.12.2022",
         "fact_value": 0,
-        "predict_value": 32098.41796875
+        "predict_value": 32864.5546875
     },
     {
         "hour": 0,
         "date": "24.12.2022",
         "fact_value": 0,
-        "predict_value": 32316.318359375
+        "predict_value": 32541.54296875
     },
     {
         "hour": 0,
         "date": "25.12.2022",
         "fact_value": 0,
-        "predict_value": 32093.0234375
+        "predict_value": 32868.87109375
     },
     {
         "hour": 0,
         "date": "26.12.2022",
         "fact_value": 0,
-        "predict_value": 31659.517578125
+        "predict_value": 32501.12890625
     },
     {
         "hour": 0,
         "date": "27.12.2022",
         "fact_value": 0,
-        "predict_value": 30460.193359375
+        "predict_value": 31197.955078125
     },
     {
         "hour": 0,
         "date": "28.12.2022",
         "fact_value": 0,
-        "predict_value": 29600.873046875
+        "predict_value": 30865.68359375
     },
     {
         "hour": 0,
         "date": "29.12.2022",
         "fact_value": 0,
-        "predict_value": 30085.05078125
+        "predict_value": 31692.169921875
     },
     {
         "hour": 0,
         "date": "30.12.2022",
         "fact_value": 0,
-        "predict_value": 31192.435546875
+        "predict_value": 31937.115234375
     },
     {
         "hour": 0,
         "date": "31.12.2022",
         "fact_value": 0,
-        "predict_value": 31557.08984375
+        "predict_value": 32146.55859375
     },
     {
         "hour": 0,
         "date": "01.01.2023",
         "fact_value": 0,
-        "predict_value": 31326.92578125
+        "predict_value": 31933.01953125
     },
     {
         "hour": 0,
         "date": "02.01.2023",
         "fact_value": 0,
-        "predict_value": 31437.626953125
+        "predict_value": 31188.904296875
     },
     {
         "hour": 0,
         "date": "03.01.2023",
         "fact_value": 0,
-        "predict_value": 28328.986328125
+        "predict_value": 29140.27734375
     },
     {
         "hour": 0,
         "date": "04.01.2023",
         "fact_value": 0,
-        "predict_value": 27432.98828125
+        "predict_value": 27459.056640625
     },
     {
         "hour": 0,
         "date": "05.01.2023",
         "fact_value": 0,
-        "predict_value": 28564.01953125
+        "predict_value": 28403.4375
     },
     {
         "hour": 0,
         "date": "06.01.2023",
         "fact_value": 0,
-        "predict_value": 29668.875
+        "predict_value": 28973.302734375
     },
     {
         "hour": 0,
         "date": "07.01.2023",
         "fact_value": 0,
-        "predict_value": 30071.677734375
+        "predict_value": 30427.8359375
     },
     {
         "hour": 0,
         "date": "08.01.2023",
         "fact_value": 0,
-        "predict_value": 30847.029296875
+        "predict_value": 30667.12890625
     },
     {
         "hour": 0,
         "date": "09.01.2023",
         "fact_value": 0,
-        "predict_value": 30951.296875
+        "predict_value": 31339.431640625
     },
     {
         "hour": 0,
         "date": "10.01.2023",
         "fact_value": 0,
-        "predict_value": 31628.87109375
+        "predict_value": 31788.765625
     },
     {
         "hour": 0,
         "date": "11.01.2023",
         "fact_value": 0,
-        "predict_value": 31749.94140625
+        "predict_value": 32689.65234375
     },
     {
         "hour": 0,
         "date": "12.01.2023",
         "fact_value": 0,
-        "predict_value": 33148.0546875
+        "predict_value": 34777.734375
     },
     {
         "hour": 0,
         "date": "13.01.2023",
         "fact_value": 0,
-        "predict_value": 33623.0859375
+        "predict_value": 34891.484375
     },
     {
         "hour": 0,
         "date": "14.01.2023",
         "fact_value": 0,
-        "predict_value": 32746.6796875
+        "predict_value": 34776.36328125
     },
     {
         "hour": 0,
         "date": "15.01.2023",
         "fact_value": 0,
-        "predict_value": 32965.16796875
+        "predict_value": 34656.15234375
     },
     {
         "hour": 0,
         "date": "16.01.2023",
         "fact_value": 0,
-        "predict_value": 32931.8984375
+        "predict_value": 33311.4140625
     },
     {
         "hour": 0,
         "date": "17.01.2023",
         "fact_value": 0,
-        "predict_value": 32331.193359375
+        "predict_value": 32083.6640625
     },
     {
         "hour": 0,
         "date": "18.01.2023",
         "fact_value": 0,
-        "predict_value": 30479.576171875
+        "predict_value": 31385.26171875
     },
     {
         "hour": 0,
         "date": "19.01.2023",
         "fact_value": 0,
-        "predict_value": 32257.5234375
+        "predict_value": 31829.228515625
     },
     {
         "hour": 0,
         "date": "20.01.2023",
         "fact_value": 0,
-        "predict_value": 32427.181640625
+        "predict_value": 33049.98828125
     },
     {
         "hour": 0,
         "date": "21.01.2023",
         "fact_value": 0,
-        "predict_value": 32626.9453125
+        "predict_value": 33302.6875
     },
     {
         "hour": 0,
         "date": "22.01.2023",
         "fact_value": 0,
-        "predict_value": 33452.57421875
+        "predict_value": 33326.59375
     },
     {
         "hour": 0,
         "date": "23.01.2023",
         "fact_value": 0,
-        "predict_value": 33041.87890625
+        "predict_value": 33081.2421875
     },
     {
         "hour": 0,
         "date": "24.01.2023",
         "fact_value": 0,
-        "predict_value": 32159.251953125
+        "predict_value": 31560.603515625
     },
     {
         "hour": 0,
         "date": "25.01.2023",
         "fact_value": 0,
-        "predict_value": 31366.287109375
+        "predict_value": 31612.302734375
     },
     {
         "hour": 0,
         "date": "26.01.2023",
         "fact_value": 0,
-        "predict_value": 31552.19140625
+        "predict_value": 32038.625
     },
     {
         "hour": 0,
         "date": "27.01.2023",
         "fact_value": 0,
-        "predict_value": 33204.08203125
+        "predict_value": 32575.390625
     },
     {
         "hour": 0,
         "date": "28.01.2023",
         "fact_value": 0,
-        "predict_value": 33691.1640625
+        "predict_value": 33271.74609375
     },
     {
         "hour": 0,
         "date": "29.01.2023",
         "fact_value": 0,
-        "predict_value": 33221.87890625
+        "predict_value": 34198.71484375
     },
     {
         "hour": 0,
         "date": "30.01.2023",
         "fact_value": 0,
-        "predict_value": 32585.0234375
+        "predict_value": 33463.7734375
     },
     {
         "hour": 0,
         "date": "31.01.2023",
         "fact_value": 0,
-        "predict_value": 31420.19140625
+        "predict_value": 31153.490234375
     },
     {
         "hour": 0,
         "date": "01.02.2023",
         "fact_value": 0,
-        "predict_value": 30466.53515625
+        "predict_value": 30671.630859375
     },
     {
         "hour": 0,
         "date": "02.02.2023",
         "fact_value": 0,
-        "predict_value": 31740.5390625
+        "predict_value": 32638.240234375
     },
     {
         "hour": 0,
         "date": "03.02.2023",
         "fact_value": 0,
-        "predict_value": 32485.73046875
+        "predict_value": 33482.3984375
     },
     {
         "hour": 0,
         "date": "04.02.2023",
         "fact_value": 0,
-        "predict_value": 32643.173828125
+        "predict_value": 32603.1328125
     },
     {
         "hour": 0,
         "date": "05.02.2023",
         "fact_value": 0,
-        "predict_value": 31813.02734375
+        "predict_value": 33041.19140625
     },
     {
         "hour": 0,
         "date": "06.02.2023",
         "fact_value": 0,
-        "predict_value": 32685.435546875
+        "predict_value": 32926.69140625
     },
     {
         "hour": 0,
         "date": "07.02.2023",
         "fact_value": 0,
-        "predict_value": 31672.703125
+        "predict_value": 31767.00390625
     },
     {
         "hour": 0,
         "date": "08.02.2023",
         "fact_value": 0,
-        "predict_value": 31348.248046875
+        "predict_value": 31159.546875
     },
     {
         "hour": 0,
         "date": "09.02.2023",
         "fact_value": 0,
-        "predict_value": 31889.779296875
+        "predict_value": 32961.82421875
     },
     {
         "hour": 0,
         "date": "10.02.2023",
         "fact_value": 0,
-        "predict_value": 32316.103515625
+        "predict_value": 34168.671875
     },
     {
         "hour": 0,
         "date": "11.02.2023",
         "fact_value": 0,
-        "predict_value": 33140.1953125
+        "predict_value": 34203.40234375
     },
     {
         "hour": 0,
         "date": "12.02.2023",
         "fact_value": 0,
-        "predict_value": 32845.8125
+        "predict_value": 33646.7421875
     },
     {
         "hour": 0,
         "date": "13.02.2023",
         "fact_value": 0,
-        "predict_value": 32930.84375
+        "predict_value": 33277.453125
     },
     {
         "hour": 0,
         "date": "14.02.2023",
         "fact_value": 0,
-        "predict_value": 30766.95703125
+        "predict_value": 31207.185546875
     },
     {
         "hour": 0,
         "date": "15.02.2023",
         "fact_value": 0,
-        "predict_value": 30868.24609375
+        "predict_value": 30512.46484375
     },
     {
         "hour": 0,
         "date": "16.02.2023",
         "fact_value": 0,
-        "predict_value": 31776.13671875
+        "predict_value": 32094.171875
     },
     {
         "hour": 0,
         "date": "17.02.2023",
         "fact_value": 0,
-        "predict_value": 31371.484375
+        "predict_value": 32573.791015625
     },
     {
         "hour": 0,
         "date": "18.02.2023",
         "fact_value": 0,
-        "predict_value": 31874.361328125
+        "predict_value": 32335.9453125
     },
     {
         "hour": 0,
         "date": "19.02.2023",
         "fact_value": 0,
-        "predict_value": 31445.6015625
+        "predict_value": 31946.9453125
     },
     {
         "hour": 0,
         "date": "20.02.2023",
         "fact_value": 0,
-        "predict_value": 32489.345703125
+        "predict_value": 32590.427734375
     },
     {
         "hour": 0,
         "date": "21.02.2023",
         "fact_value": 0,
-        "predict_value": 31675.013671875
+        "predict_value": 31117.595703125
     },
     {
         "hour": 0,
         "date": "22.02.2023",
         "fact_value": 0,
-        "predict_value": 30189.931640625
+        "predict_value": 30278.681640625
     },
     {
         "hour": 0,
         "date": "23.02.2023",
         "fact_value": 0,
-        "predict_value": 30806.474609375
+        "predict_value": 31311.978515625
     },
     {
         "hour": 0,
         "date": "24.02.2023",
         "fact_value": 0,
-        "predict_value": 30614.087890625
+        "predict_value": 31139.8359375
     },
     {
         "hour": 0,
         "date": "25.02.2023",
         "fact_value": 0,
-        "predict_value": 30055.841796875
+        "predict_value": 31115.69921875
     },
     {
         "hour": 0,
         "date": "26.02.2023",
         "fact_value": 0,
-        "predict_value": 30314.02734375
+        "predict_value": 29846.533203125
     },
     {
         "hour": 0,
         "date": "27.02.2023",
         "fact_value": 0,
-        "predict_value": 30522.98828125
+        "predict_value": 29783.18359375
     },
     {
         "hour": 0,
         "date": "28.02.2023",
         "fact_value": 0,
-        "predict_value": 29513.14453125
+        "predict_value": 29274.875
     },
     {
         "hour": 0,
         "date": "01.03.2023",
         "fact_value": 0,
-        "predict_value": 29527.798828125
+        "predict_value": 29599.578125
     },
     {
         "hour": 0,
         "date": "02.03.2023",
         "fact_value": 0,
-        "predict_value": 30399.6484375
+        "predict_value": 30926.75
     },
     {
         "hour": 0,
         "date": "03.03.2023",
         "fact_value": 0,
-        "predict_value": 29736.234375
+        "predict_value": 31034.42578125
     },
     {
         "hour": 0,
         "date": "04.03.2023",
         "fact_value": 0,
-        "predict_value": 29972.55078125
+        "predict_value": 30894.54296875
     },
     {
         "hour": 0,
         "date": "05.03.2023",
         "fact_value": 0,
-        "predict_value": 29997.3671875
+        "predict_value": 31007.08984375
     },
     {
         "hour": 0,
         "date": "06.03.2023",
         "fact_value": 0,
-        "predict_value": 30559.005859375
+        "predict_value": 31162.3828125
     },
     {
         "hour": 0,
         "date": "07.03.2023",
         "fact_value": 0,
-        "predict_value": 29318.947265625
+        "predict_value": 28718.28125
     },
     {
         "hour": 0,
         "date": "08.03.2023",
         "fact_value": 0,
-        "predict_value": 28253.734375
+        "predict_value": 28867.595703125
     },
     {
         "hour": 0,
         "date": "09.03.2023",
         "fact_value": 0,
-        "predict_value": 30632.263671875
+        "predict_value": 30480.57421875
     },
     {
         "hour": 0,
         "date": "10.03.2023",
         "fact_value": 0,
-        "predict_value": 29311.466796875
+        "predict_value": 30178.763671875
     },
     {
         "hour": 0,
         "date": "11.03.2023",
         "fact_value": 0,
-        "predict_value": 27954.69921875
+        "predict_value": 28124.369140625
     },
     {
         "hour": 0,
         "date": "12.03.2023",
         "fact_value": 0,
-        "predict_value": 30062.462890625
+        "predict_value": 29267.373046875
     },
     {
         "hour": 0,
         "date": "13.03.2023",
         "fact_value": 0,
-        "predict_value": 29696.353515625
+        "predict_value": 29529.890625
     },
     {
         "hour": 0,
         "date": "14.03.2023",
         "fact_value": 0,
-        "predict_value": 29283.005859375
+        "predict_value": 28505.904296875
     },
     {
         "hour": 0,
         "date": "15.03.2023",
         "fact_value": 0,
-        "predict_value": 27676.09375
+        "predict_value": 27896.68359375
     },
     {
         "hour": 0,
         "date": "16.03.2023",
         "fact_value": 0,
-        "predict_value": 28698.1796875
+        "predict_value": 28987.69921875
     },
     {
         "hour": 0,
         "date": "17.03.2023",
         "fact_value": 0,
-        "predict_value": 30408.798828125
+        "predict_value": 29318.251953125
     },
     {
         "hour": 0,
         "date": "18.03.2023",
         "fact_value": 0,
-        "predict_value": 29540.396484375
+        "predict_value": 29939.869140625
     },
     {
         "hour": 0,
         "date": "19.03.2023",
         "fact_value": 0,
-        "predict_value": 29632.955078125
+        "predict_value": 29756.46875
     },
     {
         "hour": 0,
         "date": "20.03.2023",
         "fact_value": 0,
-        "predict_value": 30349.462890625
+        "predict_value": 30084.00390625
     },
     {
         "hour": 0,
         "date": "21.03.2023",
         "fact_value": 0,
-        "predict_value": 28167.8359375
+        "predict_value": 28380.0234375
     },
     {
         "hour": 0,
         "date": "22.03.2023",
         "fact_value": 0,
-        "predict_value": 28602.251953125
+        "predict_value": 28526.787109375
     },
     {
         "hour": 0,
         "date": "23.03.2023",
         "fact_value": 0,
-        "predict_value": 29381.349609375
+        "predict_value": 29826.546875
     },
     {
         "hour": 0,
         "date": "24.03.2023",
         "fact_value": 0,
-        "predict_value": 29632.1171875
+        "predict_value": 30180.888671875
     },
     {
         "hour": 0,
         "date": "25.03.2023",
         "fact_value": 0,
-        "predict_value": 29327.55078125
+        "predict_value": 29848.03515625
     },
     {
         "hour": 0,
         "date": "26.03.2023",
         "fact_value": 0,
-        "predict_value": 29630.994140625
+        "predict_value": 29652.115234375
     },
     {
         "hour": 0,
         "date": "27.03.2023",
         "fact_value": 0,
-        "predict_value": 29399.978515625
+        "predict_value": 29969.234375
     },
     {
         "hour": 0,
         "date": "28.03.2023",
         "fact_value": 0,
-        "predict_value": 28552.33203125
+        "predict_value": 28742.033203125
     },
     {
         "hour": 0,
         "date": "29.03.2023",
         "fact_value": 0,
-        "predict_value": 28244.19140625
+        "predict_value": 27726.96484375
     },
     {
         "hour": 0,
         "date": "30.03.2023",
         "fact_value": 0,
-        "predict_value": 28895.58203125
+        "predict_value": 29522.234375
     },
     {
         "hour": 0,
         "date": "31.03.2023",
         "fact_value": 0,
-        "predict_value": 30085.83203125
+        "predict_value": 29913.423828125
     },
     {
         "hour": 0,
         "date": "01.04.2023",
         "fact_value": 0,
-        "predict_value": 29415.443359375
+        "predict_value": 29999.40234375
     },
     {
         "hour": 0,
         "date": "02.04.2023",
         "fact_value": 0,
-        "predict_value": 29537.322265625
+        "predict_value": 29582.02734375
     },
     {
         "hour": 0,
         "date": "03.04.2023",
         "fact_value": 0,
-        "predict_value": 29588.517578125
+        "predict_value": 29917.443359375
     },
     {
         "hour": 0,
         "date": "04.04.2023",
         "fact_value": 0,
-        "predict_value": 28633.1015625
+        "predict_value": 28498.021484375
     },
     {
         "hour": 0,
         "date": "05.04.2023",
         "fact_value": 0,
-        "predict_value": 28143.84765625
+        "predict_value": 28009.572265625
     },
     {
         "hour": 0,
         "date": "06.04.2023",
         "fact_value": 0,
-        "predict_value": 27822.201171875
+        "predict_value": 28761.134765625
     },
     {
         "hour": 0,
         "date": "07.04.2023",
         "fact_value": 0,
-        "predict_value": 28735.146484375
+        "predict_value": 29090.4609375
     },
     {
         "hour": 0,
         "date": "08.04.2023",
         "fact_value": 0,
-        "predict_value": 28548.96484375
+        "predict_value": 28666.73046875
     },
     {
         "hour": 0,
         "date": "09.04.2023",
         "fact_value": 0,
-        "predict_value": 27501.3515625
+        "predict_value": 28435.44140625
     },
     {
         "hour": 0,
         "date": "10.04.2023",
         "fact_value": 0,
-        "predict_value": 26458.353515625
+        "predict_value": 28413.435546875
     },
     {
         "hour": 0,
         "date": "11.04.2023",
         "fact_value": 0,
-        "predict_value": 27401.5234375
+        "predict_value": 27118.986328125
     },
     {
         "hour": 0,
         "date": "12.04.2023",
         "fact_value": 0,
-        "predict_value": 27142.509765625
+        "predict_value": 26685.171875
     },
     {
         "hour": 0,
         "date": "13.04.2023",
         "fact_value": 0,
-        "predict_value": 27079.265625
+        "predict_value": 27770.7734375
     },
     {
         "hour": 0,
         "date": "14.04.2023",
         "fact_value": 0,
-        "predict_value": 28153.515625
+        "predict_value": 27848.3125
     },
     {
         "hour": 0,
         "date": "15.04.2023",
         "fact_value": 0,
-        "predict_value": 27832.34765625
+        "predict_value": 28461.99609375
     },
     {
         "hour": 0,
         "date": "16.04.2023",
         "fact_value": 0,
-        "predict_value": 27703.298828125
+        "predict_value": 28429.095703125
     },
     {
         "hour": 0,
         "date": "17.04.2023",
         "fact_value": 0,
-        "predict_value": 27308.3203125
+        "predict_value": 28195.986328125
     },
     {
         "hour": 0,
         "date": "18.04.2023",
         "fact_value": 0,
-        "predict_value": 25878.900390625
+        "predict_value": 27167.966796875
     },
     {
         "hour": 0,
         "date": "19.04.2023",
         "fact_value": 0,
-        "predict_value": 25260.916015625
+        "predict_value": 26222.279296875
     },
     {
         "hour": 0,
         "date": "20.04.2023",
         "fact_value": 0,
-        "predict_value": 28076.015625
+        "predict_value": 28596.15234375
     },
     {
         "hour": 0,
         "date": "21.04.2023",
         "fact_value": 0,
-        "predict_value": 28094.580078125
+        "predict_value": 28776.931640625
     },
     {
         "hour": 0,
         "date": "22.04.2023",
         "fact_value": 0,
-        "predict_value": 27690.208984375
+        "predict_value": 29147.03125
     },
     {
         "hour": 0,
         "date": "23.04.2023",
         "fact_value": 0,
-        "predict_value": 27568.044921875
+        "predict_value": 28888.447265625
     },
     {
         "hour": 0,
         "date": "24.04.2023",
         "fact_value": 0,
-        "predict_value": 29086.64453125
+        "predict_value": 28565.09765625
     },
     {
         "hour": 0,
         "date": "25.04.2023",
         "fact_value": 0,
-        "predict_value": 27806.6328125
+        "predict_value": 27915.884765625
     },
     {
         "hour": 0,
         "date": "26.04.2023",
         "fact_value": 0,
-        "predict_value": 26281.78515625
+        "predict_value": 26801.650390625
     },
     {
         "hour": 0,
         "date": "27.04.2023",
         "fact_value": 0,
-        "predict_value": 27544.474609375
+        "predict_value": 28021.1171875
     },
     {
         "hour": 0,
         "date": "28.04.2023",
         "fact_value": 0,
-        "predict_value": 27408.25
+        "predict_value": 27835.6328125
     },
     {
         "hour": 0,
         "date": "29.04.2023",
         "fact_value": 0,
-        "predict_value": 27812.21484375
+        "predict_value": 27619.365234375
     },
     {
         "hour": 0,
         "date": "30.04.2023",
         "fact_value": 0,
-        "predict_value": 26912.865234375
+        "predict_value": 27852.625
     },
     {
         "hour": 0,
         "date": "01.05.2023",
         "fact_value": 0,
-        "predict_value": 26956.509765625
+        "predict_value": 27990.828125
     },
     {
         "hour": 0,
         "date": "02.05.2023",
         "fact_value": 0,
-        "predict_value": 25199.78125
+        "predict_value": 25733.88671875
     },
     {
         "hour": 0,
         "date": "03.05.2023",
         "fact_value": 0,
-        "predict_value": 23977.2421875
+        "predict_value": 23843.583984375
     },
     {
         "hour": 0,
         "date": "04.05.2023",
         "fact_value": 0,
-        "predict_value": 23959.240234375
+        "predict_value": 23390.380859375
     },
     {
         "hour": 0,
         "date": "05.05.2023",
         "fact_value": 0,
-        "predict_value": 23793.591796875
+        "predict_value": 24509.853515625
     },
     {
         "hour": 0,
         "date": "06.05.2023",
         "fact_value": 0,
-        "predict_value": 24298.779296875
+        "predict_value": 24912.234375
     },
     {
         "hour": 0,
         "date": "07.05.2023",
         "fact_value": 0,
-        "predict_value": 24794.765625
+        "predict_value": 25429.634765625
     },
     {
         "hour": 0,
         "date": "08.05.2023",
         "fact_value": 0,
-        "predict_value": 25245.072265625
+        "predict_value": 24931.28125
     },
     {
         "hour": 0,
         "date": "09.05.2023",
         "fact_value": 0,
-        "predict_value": 23979.923828125
+        "predict_value": 24066.923828125
     },
     {
         "hour": 0,
         "date": "10.05.2023",
         "fact_value": 0,
-        "predict_value": 22288.94921875
+        "predict_value": 23694.3515625
     },
     {
         "hour": 0,
         "date": "11.05.2023",
         "fact_value": 0,
-        "predict_value": 23431.779296875
+        "predict_value": 24242.3203125
     },
     {
         "hour": 0,
         "date": "12.05.2023",
         "fact_value": 0,
-        "predict_value": 23428.26953125
+        "predict_value": 25210.51953125
     },
     {
         "hour": 0,
         "date": "13.05.2023",
         "fact_value": 0,
-        "predict_value": 26347.275390625
+        "predict_value": 26912.48046875
     },
     {
         "hour": 0,
         "date": "14.05.2023",
         "fact_value": 0,
-        "predict_value": 25912.08203125
+        "predict_value": 27677.244140625
     },
     {
         "hour": 0,
         "date": "15.05.2023",
         "fact_value": 0,
-        "predict_value": 26536.677734375
+        "predict_value": 27565.755859375
     },
     {
         "hour": 0,
         "date": "16.05.2023",
         "fact_value": 0,
-        "predict_value": 25522.78515625
+        "predict_value": 25894.34765625
     },
     {
         "hour": 0,
         "date": "17.05.2023",
         "fact_value": 0,
-        "predict_value": 23683.708984375
+        "predict_value": 24899.048828125
     },
     {
         "hour": 0,
         "date": "18.05.2023",
         "fact_value": 0,
-        "predict_value": 24673.09765625
+        "predict_value": 26146.04296875
     },
     {
         "hour": 0,
         "date": "19.05.2023",
         "fact_value": 0,
-        "predict_value": 26909.064453125
+        "predict_value": 27073.201171875
     },
     {
         "hour": 0,
         "date": "20.05.2023",
         "fact_value": 0,
-        "predict_value": 25770.0703125
+        "predict_value": 26737.548828125
     },
     {
         "hour": 0,
         "date": "21.05.2023",
         "fact_value": 0,
-        "predict_value": 26074.708984375
+        "predict_value": 26260.576171875
     },
     {
         "hour": 0,
         "date": "22.05.2023",
         "fact_value": 0,
-        "predict_value": 25500.263671875
+        "predict_value": 25457.56640625
     },
     {
         "hour": 0,
         "date": "23.05.2023",
         "fact_value": 0,
-        "predict_value": 23804.478515625
+        "predict_value": 23906.1484375
     },
     {
         "hour": 0,
         "date": "24.05.2023",
         "fact_value": 0,
-        "predict_value": 23735.2109375
+        "predict_value": 24330.4296875
     },
     {
         "hour": 0,
         "date": "25.05.2023",
         "fact_value": 0,
-        "predict_value": 24655.6640625
+        "predict_value": 25087.126953125
     },
     {
         "hour": 0,
         "date": "26.05.2023",
         "fact_value": 0,
-        "predict_value": 25526.650390625
+        "predict_value": 25215.591796875
     },
     {
         "hour": 0,
         "date": "27.05.2023",
         "fact_value": 0,
-        "predict_value": 26129.84375
+        "predict_value": 25170.09375
     },
     {
         "hour": 0,
         "date": "28.05.2023",
         "fact_value": 0,
-        "predict_value": 25017.728515625
+        "predict_value": 24971.63671875
     },
     {
         "hour": 0,
         "date": "29.05.2023",
         "fact_value": 0,
-        "predict_value": 25166.005859375
+        "predict_value": 25389.1328125
     },
     {
         "hour": 0,
         "date": "30.05.2023",
         "fact_value": 0,
-        "predict_value": 24167.4921875
+        "predict_value": 24193.6640625
     },
     {
         "hour": 0,
         "date": "31.05.2023",
         "fact_value": 0,
-        "predict_value": 23419.103515625
+        "predict_value": 23558.3984375
     },
     {
         "hour": 0,
         "date": "01.06.2023",
         "fact_value": 0,
-        "predict_value": 23660.99609375
+        "predict_value": 24957.58203125
     },
     {
         "hour": 0,
         "date": "02.06.2023",
         "fact_value": 0,
-        "predict_value": 23946.689453125
+        "predict_value": 24677.041015625
     },
     {
         "hour": 0,
         "date": "03.06.2023",
         "fact_value": 0,
-        "predict_value": 24413.947265625
+        "predict_value": 24958.359375
     },
     {
         "hour": 0,
         "date": "04.06.2023",
         "fact_value": 0,
-        "predict_value": 24457.359375
+        "predict_value": 25447.2578125
     },
     {
         "hour": 0,
         "date": "05.06.2023",
         "fact_value": 0,
-        "predict_value": 25128.9375
+        "predict_value": 25231.51953125
     },
     {
         "hour": 0,
         "date": "06.06.2023",
         "fact_value": 0,
-        "predict_value": 24264.958984375
+        "predict_value": 24826.8984375
     },
     {
         "hour": 0,
         "date": "07.06.2023",
         "fact_value": 0,
-        "predict_value": 23184.572265625
+        "predict_value": 24428.4375
     },
     {
         "hour": 0,
         "date": "08.06.2023",
         "fact_value": 0,
-        "predict_value": 23605.5703125
+        "predict_value": 25350.2421875
     },
     {
         "hour": 0,
         "date": "09.06.2023",
         "fact_value": 0,
-        "predict_value": 24563.25
+        "predict_value": 25818.04296875
     },
     {
         "hour": 0,
         "date": "10.06.2023",
         "fact_value": 0,
-        "predict_value": 25418.220703125
+        "predict_value": 24761.69140625
     },
     {
         "hour": 0,
         "date": "11.06.2023",
         "fact_value": 0,
-        "predict_value": 24768.443359375
+        "predict_value": 25099.90625
     },
     {
         "hour": 0,
         "date": "12.06.2023",
         "fact_value": 0,
-        "predict_value": 24948.671875
+        "predict_value": 24664.5078125
     },
     {
         "hour": 0,
         "date": "13.06.2023",
         "fact_value": 0,
-        "predict_value": 24634.369140625
+        "predict_value": 23301.212890625
     },
     {
         "hour": 0,
         "date": "14.06.2023",
         "fact_value": 0,
-        "predict_value": 24347.212890625
+        "predict_value": 23085.486328125
     },
     {
         "hour": 0,
         "date": "15.06.2023",
         "fact_value": 0,
-        "predict_value": 22626.619140625
+        "predict_value": 22386.296875
     },
     {
         "hour": 0,
         "date": "16.06.2023",
         "fact_value": 0,
-        "predict_value": 24536.8203125
+        "predict_value": 24238.689453125
     },
     {
         "hour": 0,
         "date": "17.06.2023",
         "fact_value": 0,
-        "predict_value": 24354.84765625
+        "predict_value": 24923.404296875
     },
     {
         "hour": 0,
         "date": "18.06.2023",
         "fact_value": 0,
-        "predict_value": 24966.537109375
+        "predict_value": 25357.625
     },
     {
         "hour": 0,
         "date": "19.06.2023",
         "fact_value": 0,
-        "predict_value": 25369.92578125
+        "predict_value": 25705.880859375
     },
     {
         "hour": 0,
         "date": "20.06.2023",
         "fact_value": 0,
-        "predict_value": 24632.490234375
+        "predict_value": 24225.95703125
     },
     {
         "hour": 0,
         "date": "21.06.2023",
         "fact_value": 0,
-        "predict_value": 22949.9140625
+        "predict_value": 22878.04296875
     },
     {
         "hour": 0,
         "date": "22.06.2023",
         "fact_value": 0,
-        "predict_value": 24276.05859375
+        "predict_value": 24413.5390625
     },
     {
         "hour": 0,
         "date": "23.06.2023",
         "fact_value": 0,
-        "predict_value": 24895.330078125
+        "predict_value": 25150.76953125
     },
     {
         "hour": 0,
         "date": "24.06.2023",
         "fact_value": 0,
-        "predict_value": 25192.935546875
+        "predict_value": 25405.55078125
     },
     {
         "hour": 0,
         "date": "25.06.2023",
         "fact_value": 0,
-        "predict_value": 24994.205078125
+        "predict_value": 24840.25
     },
     {
         "hour": 0,
         "date": "26.06.2023",
         "fact_value": 0,
-        "predict_value": 25863.330078125
+        "predict_value": 25016.537109375
     },
     {
         "hour": 0,
         "date": "27.06.2023",
         "fact_value": 0,
-        "predict_value": 24128.72265625
+        "predict_value": 24043.611328125
     },
     {
         "hour": 0,
         "date": "28.06.2023",
         "fact_value": 0,
-        "predict_value": 22304.986328125
+        "predict_value": 23347.03125
     },
     {
         "hour": 0,
         "date": "29.06.2023",
         "fact_value": 0,
-        "predict_value": 25164.517578125
+        "predict_value": 24866.1484375
     },
     {
         "hour": 0,
         "date": "30.06.2023",
         "fact_value": 0,
-        "predict_value": 25279.708984375
+        "predict_value": 24995.263671875
     },
     {
         "hour": 0,
         "date": "01.07.2023",
         "fact_value": 0,
-        "predict_value": 25131.458984375
+        "predict_value": 25569.888671875
     },
     {
         "hour": 0,
         "date": "02.07.2023",
         "fact_value": 0,
-        "predict_value": 24613.552734375
+        "predict_value": 24912.8203125
     },
     {
         "hour": 0,
         "date": "03.07.2023",
         "fact_value": 0,
-        "predict_value": 24469.4609375
+        "predict_value": 25183.2421875
     },
     {
         "hour": 0,
         "date": "04.07.2023",
         "fact_value": 0,
-        "predict_value": 24259.740234375
+        "predict_value": 23792.80078125
     },
     {
         "hour": 0,
         "date": "05.07.2023",
         "fact_value": 0,
-        "predict_value": 23863.09375
+        "predict_value": 23148.857421875
     },
     {
         "hour": 0,
         "date": "06.07.2023",
         "fact_value": 0,
-        "predict_value": 24131.482421875
+        "predict_value": 24466.62109375
     },
     {
         "hour": 0,
         "date": "07.07.2023",
         "fact_value": 0,
-        "predict_value": 24710.7109375
+        "predict_value": 24636.1484375
     },
     {
         "hour": 0,
         "date": "08.07.2023",
         "fact_value": 0,
-        "predict_value": 23914.830078125
+        "predict_value": 24339.826171875
     },
     {
         "hour": 0,
         "date": "09.07.2023",
         "fact_value": 0,
-        "predict_value": 24395.884765625
+        "predict_value": 24107.248046875
     },
     {
         "hour": 0,
         "date": "10.07.2023",
         "fact_value": 0,
-        "predict_value": 24703.544921875
+        "predict_value": 24897.92578125
     },
     {
         "hour": 0,
         "date": "11.07.2023",
         "fact_value": 0,
-        "predict_value": 22657.275390625
+        "predict_value": 23701.021484375
     },
     {
         "hour": 0,
         "date": "12.07.2023",
         "fact_value": 0,
-        "predict_value": 22892.8359375
+        "predict_value": 23206.205078125
     },
     {
         "hour": 0,
         "date": "13.07.2023",
         "fact_value": 0,
-        "predict_value": 23003.185546875
+        "predict_value": 24516.775390625
     },
     {
         "hour": 0,
         "date": "14.07.2023",
         "fact_value": 0,
-        "predict_value": 24597.89453125
+        "predict_value": 24761.826171875
     },
     {
         "hour": 0,
         "date": "15.07.2023",
         "fact_value": 0,
-        "predict_value": 24861.212890625
+        "predict_value": 24242
     },
     {
         "hour": 0,
         "date": "16.07.2023",
         "fact_value": 0,
-        "predict_value": 24610.904296875
+        "predict_value": 24552.068359375
     },
     {
         "hour": 0,
         "date": "17.07.2023",
         "fact_value": 0,
-        "predict_value": 24942.388671875
+        "predict_value": 24817.630859375
     },
     {
         "hour": 0,
         "date": "18.07.2023",
         "fact_value": 0,
-        "predict_value": 24661.693359375
+        "predict_value": 23274.849609375
     },
     {
         "hour": 0,
         "date": "19.07.2023",
         "fact_value": 0,
-        "predict_value": 23606.662109375
+        "predict_value": 23272.9609375
     },
     {
         "hour": 0,
         "date": "20.07.2023",
         "fact_value": 0,
-        "predict_value": 24025.798828125
+        "predict_value": 24251.1015625
     },
     {
         "hour": 0,
         "date": "21.07.2023",
         "fact_value": 0,
-        "predict_value": 24961.994140625
+        "predict_value": 24866.26953125
     },
     {
         "hour": 0,
         "date": "22.07.2023",
         "fact_value": 0,
-        "predict_value": 24693.12890625
+        "predict_value": 24808.388671875
     },
     {
         "hour": 0,
         "date": "23.07.2023",
         "fact_value": 0,
-        "predict_value": 24563.71484375
+        "predict_value": 24342.205078125
     },
     {
         "hour": 0,
         "date": "24.07.2023",
         "fact_value": 0,
-        "predict_value": 24314.552734375
+        "predict_value": 24116.669921875
     },
     {
         "hour": 0,
         "date": "25.07.2023",
         "fact_value": 0,
-        "predict_value": 22917.908203125
+        "predict_value": 23591.2265625
     },
     {
         "hour": 0,
         "date": "26.07.2023",
         "fact_value": 0,
-        "predict_value": 23283.990234375
+        "predict_value": 22503.681640625
     },
     {
         "hour": 0,
         "date": "27.07.2023",
         "fact_value": 0,
-        "predict_value": 23652.15234375
+        "predict_value": 24233.07421875
     },
     {
         "hour": 0,
         "date": "28.07.2023",
         "fact_value": 0,
-        "predict_value": 25085.44921875
+        "predict_value": 24345.60546875
     },
     {
         "hour": 0,
         "date": "29.07.2023",
         "fact_value": 0,
-        "predict_value": 25797.501953125
+        "predict_value": 25530.9296875
     },
     {
         "hour": 0,
         "date": "30.07.2023",
         "fact_value": 0,
-        "predict_value": 25046.48828125
+        "predict_value": 25262.744140625
     },
     {
         "hour": 0,
         "date": "31.07.2023",
         "fact_value": 0,
-        "predict_value": 24758.544921875
+        "predict_value": 25643.78125
     },
     {
         "hour": 0,
         "date": "01.08.2023",
         "fact_value": 0,
-        "predict_value": 24044.30859375
+        "predict_value": 24282.966796875
     },
     {
         "hour": 0,
         "date": "02.08.2023",
         "fact_value": 0,
-        "predict_value": 23222.6015625
+        "predict_value": 23336.5390625
     },
     {
         "hour": 0,
         "date": "03.08.2023",
         "fact_value": 0,
-        "predict_value": 23676.4296875
+        "predict_value": 24618.306640625
     },
     {
         "hour": 0,
         "date": "04.08.2023",
         "fact_value": 0,
-        "predict_value": 24812.5625
+        "predict_value": 25202.42578125
     },
     {
         "hour": 0,
         "date": "05.08.2023",
         "fact_value": 0,
-        "predict_value": 25233.802734375
+        "predict_value": 25556.732421875
     },
     {
         "hour": 0,
         "date": "06.08.2023",
         "fact_value": 0,
-        "predict_value": 25295.8515625
+        "predict_value": 24902.275390625
     },
     {
         "hour": 0,
         "date": "07.08.2023",
         "fact_value": 0,
-        "predict_value": 25599.580078125
+        "predict_value": 25268.798828125
     },
     {
         "hour": 0,
         "date": "08.08.2023",
         "fact_value": 0,
-        "predict_value": 24300.318359375
+        "predict_value": 23734.857421875
     },
     {
         "hour": 0,
         "date": "09.08.2023",
         "fact_value": 0,
-        "predict_value": 24276.42578125
+        "predict_value": 23432.853515625
     },
     {
         "hour": 0,
         "date": "10.08.2023",
         "fact_value": 0,
-        "predict_value": 24192.58984375
+        "predict_value": 24697.943359375
     },
     {
         "hour": 0,
         "date": "11.08.2023",
         "fact_value": 0,
-        "predict_value": 24450.919921875
+        "predict_value": 24939.21484375
     },
     {
         "hour": 0,
         "date": "12.08.2023",
         "fact_value": 0,
-        "predict_value": 24592.2578125
+        "predict_value": 24850.71875
     },
     {
         "hour": 0,
         "date": "13.08.2023",
         "fact_value": 0,
-        "predict_value": 24597.984375
+        "predict_value": 24899.13671875
     },
     {
         "hour": 0,
         "date": "14.08.2023",
         "fact_value": 0,
-        "predict_value": 24595.03125
+        "predict_value": 25339.271484375
     },
     {
         "hour": 0,
         "date": "15.08.2023",
         "fact_value": 0,
-        "predict_value": 24296.751953125
+        "predict_value": 24017.521484375
     },
     {
         "hour": 0,
         "date": "16.08.2023",
         "fact_value": 0,
-        "predict_value": 24089.0546875
+        "predict_value": 23428.03125
     },
     {
         "hour": 0,
         "date": "17.08.2023",
         "fact_value": 0,
-        "predict_value": 24517.392578125
+        "predict_value": 25258.453125
     },
     {
         "hour": 0,
         "date": "18.08.2023",
         "fact_value": 0,
-        "predict_value": 24328.09375
+        "predict_value": 25332.837890625
     },
     {
         "hour": 0,
         "date": "19.08.2023",
         "fact_value": 0,
-        "predict_value": 24687.71875
+        "predict_value": 25262.244140625
     },
     {
         "hour": 0,
         "date": "20.08.2023",
         "fact_value": 0,
-        "predict_value": 24733.76953125
+        "predict_value": 25435.58984375
     },
     {
         "hour": 0,
         "date": "21.08.2023",
         "fact_value": 0,
-        "predict_value": 25153.6328125
+        "predict_value": 24998.9765625
     },
     {
         "hour": 0,
         "date": "22.08.2023",
         "fact_value": 0,
-        "predict_value": 24047.439453125
+        "predict_value": 24339.244140625
     },
     {
         "hour": 0,
         "date": "23.08.2023",
         "fact_value": 0,
-        "predict_value": 24186.853515625
+        "predict_value": 23696.35546875
     },
     {
         "hour": 0,
         "date": "24.08.2023",
         "fact_value": 0,
-        "predict_value": 24865.48828125
+        "predict_value": 25495.87109375
     },
     {
         "hour": 0,
         "date": "25.08.2023",
         "fact_value": 0,
-        "predict_value": 26303.701171875
+        "predict_value": 25090.224609375
     },
     {
         "hour": 0,
         "date": "26.08.2023",
         "fact_value": 0,
-        "predict_value": 26091.521484375
+        "predict_value": 25643.958984375
     },
     {
         "hour": 0,
         "date": "27.08.2023",
         "fact_value": 0,
-        "predict_value": 25896.1875
+        "predict_value": 25257.62890625
     },
     {
         "hour": 0,
         "date": "28.08.2023",
         "fact_value": 0,
-        "predict_value": 24860.9921875
+        "predict_value": 24871.748046875
     },
     {
         "hour": 0,
         "date": "29.08.2023",
         "fact_value": 0,
-        "predict_value": 23757.541015625
+        "predict_value": 24291.310546875
     },
     {
         "hour": 0,
         "date": "30.08.2023",
         "fact_value": 0,
-        "predict_value": 23703.046875
+        "predict_value": 23374.37890625
     },
     {
         "hour": 0,
         "date": "31.08.2023",
         "fact_value": 0,
-        "predict_value": 24287.47265625
+        "predict_value": 25069.400390625
     },
     {
         "hour": 0,
         "date": "01.09.2023",
         "fact_value": 0,
-        "predict_value": 24932.345703125
+        "predict_value": 25707.96875
     },
     {
         "hour": 0,
         "date": "02.09.2023",
         "fact_value": 0,
-        "predict_value": 24245.23828125
+        "predict_value": 25269.337890625
     },
     {
         "hour": 0,
         "date": "03.09.2023",
         "fact_value": 0,
-        "predict_value": 25249.447265625
+        "predict_value": 25063.70703125
     },
     {
         "hour": 0,
         "date": "04.09.2023",
         "fact_value": 0,
-        "predict_value": 24408.763671875
+        "predict_value": 24928.380859375
     },
     {
         "hour": 0,
         "date": "05.09.2023",
         "fact_value": 0,
-        "predict_value": 23053.291015625
+        "predict_value": 23985.6328125
     },
     {
         "hour": 0,
         "date": "06.09.2023",
         "fact_value": 0,
-        "predict_value": 23474.849609375
+        "predict_value": 23557.736328125
     },
     {
         "hour": 0,
         "date": "07.09.2023",
         "fact_value": 0,
-        "predict_value": 24805.5625
+        "predict_value": 24869.3046875
     },
     {
         "hour": 0,
         "date": "08.09.2023",
         "fact_value": 0,
-        "predict_value": 26412.361328125
+        "predict_value": 25781.14453125
     },
     {
         "hour": 0,
         "date": "09.09.2023",
         "fact_value": 0,
-        "predict_value": 26028.251953125
+        "predict_value": 26507.93359375
     },
     {
         "hour": 0,
         "date": "10.09.2023",
         "fact_value": 0,
-        "predict_value": 25146.001953125
+        "predict_value": 25462.005859375
     },
     {
         "hour": 0,
         "date": "11.09.2023",
         "fact_value": 0,
-        "predict_value": 25931.50390625
+        "predict_value": 26014.28125
     },
     {
         "hour": 0,
         "date": "12.09.2023",
         "fact_value": 0,
-        "predict_value": 24111.05078125
+        "predict_value": 25076.62109375
     },
     {
         "hour": 0,
         "date": "13.09.2023",
         "fact_value": 0,
-        "predict_value": 23755.81640625
+        "predict_value": 23591.39453125
     },
     {
         "hour": 0,
         "date": "14.09.2023",
         "fact_value": 0,
-        "predict_value": 24957.51953125
+        "predict_value": 25528.53125
     },
     {
         "hour": 0,
         "date": "15.09.2023",
         "fact_value": 0,
-        "predict_value": 25737.40625
+        "predict_value": 25366.248046875
     },
     {
         "hour": 0,
         "date": "16.09.2023",
         "fact_value": 0,
-        "predict_value": 25043.1953125
+        "predict_value": 25867.59375
     },
     {
         "hour": 0,
         "date": "17.09.2023",
         "fact_value": 0,
-        "predict_value": 25301.41796875
+        "predict_value": 25955.484375
     },
     {
         "hour": 0,
         "date": "18.09.2023",
         "fact_value": 0,
-        "predict_value": 26177.978515625
+        "predict_value": 25816.873046875
     },
     {
         "hour": 0,
         "date": "19.09.2023",
         "fact_value": 0,
-        "predict_value": 25565.5
+        "predict_value": 25113.173828125
     },
     {
         "hour": 0,
         "date": "20.09.2023",
         "fact_value": 0,
-        "predict_value": 24562.265625
+        "predict_value": 24701.1484375
     },
     {
         "hour": 0,
         "date": "21.09.2023",
         "fact_value": 0,
-        "predict_value": 25720.740234375
+        "predict_value": 25872.783203125
     },
     {
         "hour": 0,
         "date": "22.09.2023",
         "fact_value": 0,
-        "predict_value": 26161.86328125
+        "predict_value": 26720.794921875
     },
     {
         "hour": 0,
         "date": "23.09.2023",
         "fact_value": 0,
-        "predict_value": 27211.224609375
+        "predict_value": 26261.44921875
     },
     {
         "hour": 0,
         "date": "24.09.2023",
         "fact_value": 0,
-        "predict_value": 27532.47265625
+        "predict_value": 26562.89453125
     },
     {
         "hour": 0,
         "date": "25.09.2023",
         "fact_value": 0,
-        "predict_value": 28201.365234375
+        "predict_value": 26635.248046875
     },
     {
         "hour": 0,
         "date": "26.09.2023",
         "fact_value": 0,
-        "predict_value": 27697.4296875
+        "predict_value": 25614.421875
     },
     {
         "hour": 0,
         "date": "27.09.2023",
         "fact_value": 0,
-        "predict_value": 25832.93359375
+        "predict_value": 25069.32421875
     },
     {
         "hour": 0,
         "date": "28.09.2023",
         "fact_value": 0,
-        "predict_value": 26952.169921875
+        "predict_value": 26986.140625
     },
     {
         "hour": 0,
         "date": "29.09.2023",
         "fact_value": 0,
-        "predict_value": 28233.88671875
+        "predict_value": 27418.74609375
     },
     {
         "hour": 0,
         "date": "30.09.2023",
         "fact_value": 0,
-        "predict_value": 27394.564453125
+        "predict_value": 27730.998046875
     },
     {
         "hour": 0,
         "date": "01.10.2023",
         "fact_value": 0,
-        "predict_value": 28164.498046875
+        "predict_value": 28354.6953125
     },
     {
         "hour": 0,
         "date": "02.10.2023",
         "fact_value": 0,
-        "predict_value": 28178.853515625
+        "predict_value": 28592.890625
     },
     {
         "hour": 0,
         "date": "03.10.2023",
         "fact_value": 0,
-        "predict_value": 28497.181640625
+        "predict_value": 27353.783203125
     },
     {
         "hour": 0,
         "date": "04.10.2023",
         "fact_value": 0,
-        "predict_value": 25996.69140625
+        "predict_value": 27303.3515625
     },
     {
         "hour": 0,
         "date": "05.10.2023",
         "fact_value": 0,
-        "predict_value": 28488.111328125
+        "predict_value": 28747.431640625
     },
     {
         "hour": 0,
         "date": "06.10.2023",
         "fact_value": 0,
-        "predict_value": 29524.275390625
+        "predict_value": 29294.185546875
     },
     {
         "hour": 0,
         "date": "07.10.2023",
         "fact_value": 0,
-        "predict_value": 29406.7578125
+        "predict_value": 29199.005859375
     },
     {
         "hour": 0,
         "date": "08.10.2023",
         "fact_value": 0,
-        "predict_value": 28084.97265625
+        "predict_value": 29249.890625
     },
     {
         "hour": 0,
         "date": "09.10.2023",
         "fact_value": 0,
-        "predict_value": 28746.951171875
+        "predict_value": 29366.9296875
     },
     {
         "hour": 0,
         "date": "10.10.2023",
         "fact_value": 0,
-        "predict_value": 27768.095703125
+        "predict_value": 28069.96484375
     },
     {
         "hour": 0,
         "date": "11.10.2023",
         "fact_value": 0,
-        "predict_value": 26947.9453125
+        "predict_value": 26969.16796875
     },
     {
         "hour": 0,
         "date": "12.10.2023",
         "fact_value": 0,
-        "predict_value": 28498.2734375
+        "predict_value": 29023.427734375
     },
     {
         "hour": 0,
         "date": "13.10.2023",
         "fact_value": 0,
-        "predict_value": 29154.63671875
+        "predict_value": 28979.455078125
     },
     {
         "hour": 0,
         "date": "14.10.2023",
         "fact_value": 0,
-        "predict_value": 29003.037109375
+        "predict_value": 28764.52734375
     },
     {
         "hour": 0,
         "date": "15.10.2023",
         "fact_value": 0,
-        "predict_value": 29212.06640625
+        "predict_value": 29122.087890625
     },
     {
         "hour": 0,
         "date": "16.10.2023",
         "fact_value": 0,
-        "predict_value": 30123.16796875
+        "predict_value": 29720.82421875
     },
     {
         "hour": 0,
         "date": "17.10.2023",
         "fact_value": 0,
-        "predict_value": 28143.271484375
+        "predict_value": 28479.09375
     },
     {
         "hour": 0,
         "date": "18.10.2023",
         "fact_value": 0,
-        "predict_value": 28659.869140625
+        "predict_value": 27227.140625
     },
     {
         "hour": 0,
         "date": "19.10.2023",
         "fact_value": 0,
-        "predict_value": 28269.849609375
+        "predict_value": 28876.07421875
     },
     {
         "hour": 0,
         "date": "20.10.2023",
         "fact_value": 0,
-        "predict_value": 29973.962890625
+        "predict_value": 29059.345703125
     },
     {
         "hour": 0,
         "date": "21.10.2023",
         "fact_value": 0,
-        "predict_value": 29884.66796875
+        "predict_value": 28669.60546875
     },
     {
         "hour": 0,
         "date": "22.10.2023",
         "fact_value": 0,
-        "predict_value": 29268.96875
+        "predict_value": 29394.076171875
     },
     {
         "hour": 0,
         "date": "23.10.2023",
         "fact_value": 0,
-        "predict_value": 29117.986328125
+        "predict_value": 29612.931640625
     },
     {
         "hour": 0,
         "date": "24.10.2023",
         "fact_value": 0,
-        "predict_value": 29254.767578125
+        "predict_value": 28572.173828125
     },
     {
         "hour": 0,
         "date": "25.10.2023",
         "fact_value": 0,
-        "predict_value": 28111.939453125
+        "predict_value": 28446.69140625
     },
     {
         "hour": 0,
         "date": "26.10.2023",
         "fact_value": 0,
-        "predict_value": 29297.861328125
+        "predict_value": 30192.365234375
     },
     {
         "hour": 0,
         "date": "27.10.2023",
         "fact_value": 0,
-        "predict_value": 30815.265625
+        "predict_value": 30768.947265625
     },
     {
         "hour": 0,
         "date": "28.10.2023",
         "fact_value": 0,
-        "predict_value": 32051.2265625
+        "predict_value": 30808.26953125
     },
     {
         "hour": 0,
         "date": "29.10.2023",
         "fact_value": 0,
-        "predict_value": 30997.005859375
+        "predict_value": 31422.8671875
     },
     {
         "hour": 0,
         "date": "30.10.2023",
         "fact_value": 0,
-        "predict_value": 30406.412109375
+        "predict_value": 31113.5703125
     },
     {
         "hour": 0,
         "date": "31.10.2023",
         "fact_value": 0,
-        "predict_value": 30986.619140625
+        "predict_value": 29550.896484375
     },
     {
         "hour": 0,
         "date": "01.11.2023",
         "fact_value": 0,
-        "predict_value": 30227.125
+        "predict_value": 29254.767578125
     }
 ]

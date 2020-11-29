@@ -71,6 +71,7 @@ const OES = () => {
 
     const [isPrediction, setIsPrediction] = useState(false);
     const [isLoading, setIsLoading] = useState(true);
+    const [secondStep, setSecondStep] = useState(false);
 
     const handleIndexChange = (event) => {
         setIndexState({...indexState, [event.target.name]: event.target.value});
@@ -81,6 +82,8 @@ const OES = () => {
     };
 
     const isPredictionToggle = () => {
+        if (connect) setSecondStep(true);
+
         setIsPrediction(!isPrediction);
         setIsLoading(true);
         
@@ -95,8 +98,10 @@ const OES = () => {
         }, 4000);
     }, []);
 
+
     const {index1, index2} = indexState;
-    const {maxPower, connect, product} = paramState;
+    const {connect,product, maxPower} = paramState;
+
 
     return (
         <>
@@ -117,7 +122,7 @@ const OES = () => {
                                        type="date"
                                        variant="outlined"
                                        name={"index1"}
-                                       value={'2018-11-29'}
+                                       value={'2018-01-02'}
                                        InputProps={{
                                            startAdornment: <InputAdornment position="start">от</InputAdornment>,
                                        }}/>
@@ -126,14 +131,14 @@ const OES = () => {
                                        type="date"
                                        variant="outlined"
                                        name={"index1"}
-                                       value={'2020-11-29'}
+                                       value={'2020-11-01'}
                                        InputProps={{
                                            startAdornment: <InputAdornment position="start">до</InputAdornment>,
                                        }}/>
                         </FormGroup>
                     </FormControl>
 
-                    <Chart isPrediction={isPrediction}/>
+                    <Chart isPrediction={isPrediction} secondStep={secondStep}/>
 
                     <div className={`${classes.secondSec}`}>
                         <div className={`${classes.checkboxWrapper}`}>
@@ -160,11 +165,6 @@ const OES = () => {
                                 <FormLabel component="legend" className={classes.label} disabled>Параметры</FormLabel>
                                 <FormGroup>
                                     <FormControlLabel
-                                        control={<Checkbox color="primary" checked={maxPower}
-                                                           onChange={handleParamChange} name="maxPower"/>}
-                                        label="Максимальная мощность"
-                                    />
-                                    <FormControlLabel
                                         control={<Checkbox color="primary" checked={connect}
                                                            onChange={handleParamChange} name="connect"/>}
                                         label="Темпы ввода площадей недвижимости"
@@ -174,6 +174,11 @@ const OES = () => {
                                                            onChange={handleParamChange} name="product"/>}
                                         label="Объем производимой продукции"
                                     />
+                                    <FormControlLabel
+                                        control={<Checkbox color="primary" checked={maxPower}
+                                                           onChange={handleParamChange} name="maxPower"/>}
+                                        label="Максимальная мощность"
+                                    />
                                 </FormGroup>
                             </FormControl>
 
@@ -181,11 +186,11 @@ const OES = () => {
                                 <FormGroup>
                                     <TextField select
                                                label="Период прогнозирования"
-                                               variant="outlined">
-                                        <MenuItem value='1'>месяц</MenuItem>
-                                        <MenuItem value='2'>1 год</MenuItem>
-                                        <MenuItem value='3'>3 года</MenuItem>
-                                        <MenuItem value='4'>5 лет</MenuItem>
+                                               variant="outlined"
+                                               value={'1 год'}>
+                                        <MenuItem value='1 год'>1 год</MenuItem>
+                                        <MenuItem value='3 года'>3 года</MenuItem>
+                                        <MenuItem value='5 лет'>5 лет</MenuItem>
                                     </TextField>
                                 </FormGroup>
                             </FormControl>
@@ -202,7 +207,7 @@ const OES = () => {
 
                         </div>
 
-                        <Chart2/>
+                        <Chart2 secondStep={secondStep}/>
                     </div>
 
                 </div>

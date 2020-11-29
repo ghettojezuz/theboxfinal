@@ -2,9 +2,10 @@ import React, {useEffect, useLayoutEffect, useRef, useState} from "react";
 import * as am4core from "@amcharts/amcharts4/core";
 import * as am4charts from "@amcharts/amcharts4/charts";
 import { data_predicted_min } from "../data/data_predicted_min";
+import { predicted_parallel } from "../data/predicted_parallel";
 
 
-const Chart = ({isPrediction}) => {
+const Chart = ({isPrediction, secondStep}) => {
     const chart = useRef(null);
     const [isDefault, setIsDefault] = useState(true);
 
@@ -23,6 +24,20 @@ const Chart = ({isPrediction}) => {
                 date: new Date(convertDate(data_predicted_min[i].date, data_predicted_min[i].hour)),
                 fact_value: data_predicted_min[i].fact_value,
                 predict_value: data_predicted_min[i].predict_value
+            });
+        }
+
+        return data;
+    };
+
+    const getDataSecond = () => {
+        let data = [];
+
+        for (let i = 1; i < predicted_parallel.length; i++) {
+            data.push({
+                date: new Date(convertDate(predicted_parallel[i].date, predicted_parallel[i].hour)),
+                fact_value: predicted_parallel[i].fact_value,
+                predict_value: predicted_parallel[i].predict_value
             });
         }
 
@@ -83,7 +98,12 @@ const Chart = ({isPrediction}) => {
 
     useEffect(() => {
         setIsDefault(!setIsDefault);
-        chart.current.data = getData(isDefault);
+        if (!secondStep) {
+            chart.current.data = getData(isDefault);
+        } else {
+            chart.current.data = getDataSecond();
+        }
+
     }, [isPrediction]);
 
     return (
