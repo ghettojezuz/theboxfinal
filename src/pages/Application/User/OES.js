@@ -187,7 +187,7 @@ const OES = () => {
                                     <TextField select
                                                label="Период прогнозирования"
                                                variant="outlined"
-                                               value={'1 год'}>
+                                               value={'3 года'}>
                                         <MenuItem value='1 год'>1 год</MenuItem>
                                         <MenuItem value='3 года'>3 года</MenuItem>
                                         <MenuItem value='5 лет'>5 лет</MenuItem>
